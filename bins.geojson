@@ -12,7 +12,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0000-W"
+        "container_id": "KA-0000-W",
+        "flood_level": 57
       }
     },
     {
@@ -26,7 +27,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0001-G"
+        "container_id": "KA-0001-G",
+        "flood_level": 30
       }
     },
     {
@@ -40,7 +42,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0002-B"
+        "container_id": "KA-0002-B",
+        "flood_level": 84
       }
     },
     {
@@ -54,7 +57,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0003-W"
+        "container_id": "KA-0003-W",
+        "flood_level": 26
       }
     },
     {
@@ -68,7 +72,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0004-G"
+        "container_id": "KA-0004-G",
+        "flood_level": 92
       }
     },
     {
@@ -82,7 +87,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0005-B"
+        "container_id": "KA-0005-B",
+        "flood_level": 47
       }
     },
     {
@@ -96,7 +102,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0006-W"
+        "container_id": "KA-0006-W",
+        "flood_level": 23
       }
     },
     {
@@ -110,7 +117,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0007-G"
+        "container_id": "KA-0007-G",
+        "flood_level": 42
       }
     },
     {
@@ -124,7 +132,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0008-B"
+        "container_id": "KA-0008-B",
+        "flood_level": 56
       }
     },
     {
@@ -138,7 +147,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0009-W"
+        "container_id": "KA-0009-W",
+        "flood_level": 10
       }
     },
     {
@@ -152,7 +162,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0010-G"
+        "container_id": "KA-0010-G",
+        "flood_level": 87
       }
     },
     {
@@ -166,7 +177,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0011-W"
+        "container_id": "KA-0011-W",
+        "flood_level": 77
       }
     },
     {
@@ -180,7 +192,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0012-G"
+        "container_id": "KA-0012-G",
+        "flood_level": 56
       }
     },
     {
@@ -194,7 +207,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0013-W"
+        "container_id": "KA-0013-W",
+        "flood_level": 96
       }
     },
     {
@@ -208,7 +222,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0014-G"
+        "container_id": "KA-0014-G",
+        "flood_level": 65
       }
     },
     {
@@ -222,7 +237,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0015-W"
+        "container_id": "KA-0015-W",
+        "flood_level": 63
       }
     },
     {
@@ -236,7 +252,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0016-G"
+        "container_id": "KA-0016-G",
+        "flood_level": 6
       }
     },
     {
@@ -250,7 +267,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0017-B"
+        "container_id": "KA-0017-B",
+        "flood_level": 72
       }
     },
     {
@@ -264,7 +282,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0018-W"
+        "container_id": "KA-0018-W",
+        "flood_level": 29
       }
     },
     {
@@ -278,7 +297,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0019-G"
+        "container_id": "KA-0019-G",
+        "flood_level": 66
       }
     },
     {
@@ -292,7 +312,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0020-B"
+        "container_id": "KA-0020-B",
+        "flood_level": 22
       }
     },
     {
@@ -306,7 +327,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0021-W"
+        "container_id": "KA-0021-W",
+        "flood_level": 34
       }
     },
     {
@@ -320,7 +342,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0022-G"
+        "container_id": "KA-0022-G",
+        "flood_level": 90
       }
     },
     {
@@ -334,7 +357,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0023-W"
+        "container_id": "KA-0023-W",
+        "flood_level": 69
       }
     },
     {
@@ -348,49 +372,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0024-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.8764206,
-          48.5784603
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0025-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.8764206,
-          48.5784603
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0026-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.8764206,
-          48.5784603
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0027-B"
+        "container_id": "KA-0024-G",
+        "flood_level": 10
       }
     },
     {
@@ -404,7 +387,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0028-W"
+        "container_id": "KA-0028-W",
+        "flood_level": 45
       }
     },
     {
@@ -418,7 +402,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0029-G"
+        "container_id": "KA-0029-G",
+        "flood_level": 39
       }
     },
     {
@@ -432,7 +417,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0030-B"
+        "container_id": "KA-0030-B",
+        "flood_level": 61
       }
     },
     {
@@ -446,7 +432,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0031-W"
+        "container_id": "KA-0031-W",
+        "flood_level": 62
       }
     },
     {
@@ -460,7 +447,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0032-G"
+        "container_id": "KA-0032-G",
+        "flood_level": 48
       }
     },
     {
@@ -474,7 +462,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0033-W"
+        "container_id": "KA-0033-W",
+        "flood_level": 4
       }
     },
     {
@@ -488,7 +477,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0034-G"
+        "container_id": "KA-0034-G",
+        "flood_level": 67
       }
     },
     {
@@ -502,7 +492,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0035-B"
+        "container_id": "KA-0035-B",
+        "flood_level": 70
       }
     },
     {
@@ -516,7 +507,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0036-W"
+        "container_id": "KA-0036-W",
+        "flood_level": 24
       }
     },
     {
@@ -530,35 +522,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0037-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3772414,
-          52.514014
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0038-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3772414,
-          52.514014
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0039-G"
+        "container_id": "KA-0037-G",
+        "flood_level": 14
       }
     },
     {
@@ -572,7 +537,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0040-W"
+        "container_id": "KA-0040-W",
+        "flood_level": 47
       }
     },
     {
@@ -586,7 +552,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0041-G"
+        "container_id": "KA-0041-G",
+        "flood_level": 10
       }
     },
     {
@@ -600,7 +567,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0042-W"
+        "container_id": "KA-0042-W",
+        "flood_level": 43
       }
     },
     {
@@ -614,35 +582,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0043-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4207956,
-          52.5597139
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0044-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4207956,
-          52.5597139
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0045-G"
+        "container_id": "KA-0043-G",
+        "flood_level": 64
       }
     },
     {
@@ -656,7 +597,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0046-W"
+        "container_id": "KA-0046-W",
+        "flood_level": 59
       }
     },
     {
@@ -670,7 +612,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0047-G"
+        "container_id": "KA-0047-G",
+        "flood_level": 72
       }
     },
     {
@@ -684,7 +627,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0048-W"
+        "container_id": "KA-0048-W",
+        "flood_level": 81
       }
     },
     {
@@ -698,7 +642,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0049-G"
+        "container_id": "KA-0049-G",
+        "flood_level": 4
       }
     },
     {
@@ -712,7 +657,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0050-B"
+        "container_id": "KA-0050-B",
+        "flood_level": 3
       }
     },
     {
@@ -726,7 +672,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0051-W"
+        "container_id": "KA-0051-W",
+        "flood_level": 74
       }
     },
     {
@@ -740,7 +687,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0052-G"
+        "container_id": "KA-0052-G",
+        "flood_level": 84
       }
     },
     {
@@ -754,7 +702,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0053-W"
+        "container_id": "KA-0053-W",
+        "flood_level": 27
       }
     },
     {
@@ -768,7 +717,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0054-G"
+        "container_id": "KA-0054-G",
+        "flood_level": 16
       }
     },
     {
@@ -782,7 +732,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0055-B"
+        "container_id": "KA-0055-B",
+        "flood_level": 23
       }
     },
     {
@@ -796,7 +747,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0056-W"
+        "container_id": "KA-0056-W",
+        "flood_level": 99
       }
     },
     {
@@ -810,7 +762,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0057-G"
+        "container_id": "KA-0057-G",
+        "flood_level": 39
       }
     },
     {
@@ -824,7 +777,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0058-B"
+        "container_id": "KA-0058-B",
+        "flood_level": 30
       }
     },
     {
@@ -838,7 +792,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0059-W"
+        "container_id": "KA-0059-W",
+        "flood_level": 48
       }
     },
     {
@@ -852,7 +807,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0060-G"
+        "container_id": "KA-0060-G",
+        "flood_level": 52
       }
     },
     {
@@ -866,7 +822,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0061-B"
+        "container_id": "KA-0061-B",
+        "flood_level": 16
       }
     },
     {
@@ -880,7 +837,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0062-W"
+        "container_id": "KA-0062-W",
+        "flood_level": 84
       }
     },
     {
@@ -894,7 +852,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0063-G"
+        "container_id": "KA-0063-G",
+        "flood_level": 83
       }
     },
     {
@@ -908,7 +867,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0064-W"
+        "container_id": "KA-0064-W",
+        "flood_level": 80
       }
     },
     {
@@ -922,7 +882,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0065-G"
+        "container_id": "KA-0065-G",
+        "flood_level": 66
       }
     },
     {
@@ -936,7 +897,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0066-W"
+        "container_id": "KA-0066-W",
+        "flood_level": 62
       }
     },
     {
@@ -950,7 +912,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0067-G"
+        "container_id": "KA-0067-G",
+        "flood_level": 96
       }
     },
     {
@@ -964,7 +927,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0068-B"
+        "container_id": "KA-0068-B",
+        "flood_level": 12
       }
     },
     {
@@ -978,7 +942,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0069-W"
+        "container_id": "KA-0069-W",
+        "flood_level": 79
       }
     },
     {
@@ -992,7 +957,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0070-G"
+        "container_id": "KA-0070-G",
+        "flood_level": 99
       }
     },
     {
@@ -1006,7 +972,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0071-W"
+        "container_id": "KA-0071-W",
+        "flood_level": 40
       }
     },
     {
@@ -1020,7 +987,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0072-G"
+        "container_id": "KA-0072-G",
+        "flood_level": 6
       }
     },
     {
@@ -1034,7 +1002,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0073-W"
+        "container_id": "KA-0073-W",
+        "flood_level": 9
       }
     },
     {
@@ -1048,7 +1017,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0074-G"
+        "container_id": "KA-0074-G",
+        "flood_level": 100
       }
     },
     {
@@ -1062,7 +1032,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0075-B"
+        "container_id": "KA-0075-B",
+        "flood_level": 44
       }
     },
     {
@@ -1076,7 +1047,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0076-W"
+        "container_id": "KA-0076-W",
+        "flood_level": 94
       }
     },
     {
@@ -1090,7 +1062,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0077-G"
+        "container_id": "KA-0077-G",
+        "flood_level": 46
       }
     },
     {
@@ -1104,7 +1077,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0078-B"
+        "container_id": "KA-0078-B",
+        "flood_level": 23
       }
     },
     {
@@ -1118,7 +1092,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0079-W"
+        "container_id": "KA-0079-W",
+        "flood_level": 29
       }
     },
     {
@@ -1132,7 +1107,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0080-G"
+        "container_id": "KA-0080-G",
+        "flood_level": 55
       }
     },
     {
@@ -1146,7 +1122,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0081-B"
+        "container_id": "KA-0081-B",
+        "flood_level": 23
       }
     },
     {
@@ -1160,7 +1137,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0082-W"
+        "container_id": "KA-0082-W",
+        "flood_level": 36
       }
     },
     {
@@ -1174,7 +1152,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0083-G"
+        "container_id": "KA-0083-G",
+        "flood_level": 79
       }
     },
     {
@@ -1188,7 +1167,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0084-B"
+        "container_id": "KA-0084-B",
+        "flood_level": 58
       }
     },
     {
@@ -1202,7 +1182,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0085-W"
+        "container_id": "KA-0085-W",
+        "flood_level": 88
       }
     },
     {
@@ -1216,7 +1197,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0086-G"
+        "container_id": "KA-0086-G",
+        "flood_level": 51
       }
     },
     {
@@ -1230,7 +1212,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0087-B"
+        "container_id": "KA-0087-B",
+        "flood_level": 79
       }
     },
     {
@@ -1244,7 +1227,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0088-W"
+        "container_id": "KA-0088-W",
+        "flood_level": 96
       }
     },
     {
@@ -1258,7 +1242,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0089-G"
+        "container_id": "KA-0089-G",
+        "flood_level": 76
       }
     },
     {
@@ -1272,7 +1257,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0090-B"
+        "container_id": "KA-0090-B",
+        "flood_level": 26
       }
     },
     {
@@ -1286,7 +1272,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0091-W"
+        "container_id": "KA-0091-W",
+        "flood_level": 56
       }
     },
     {
@@ -1300,7 +1287,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0092-G"
+        "container_id": "KA-0092-G",
+        "flood_level": 9
       }
     },
     {
@@ -1314,7 +1302,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0093-B"
+        "container_id": "KA-0093-B",
+        "flood_level": 88
       }
     },
     {
@@ -1328,7 +1317,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0094-W"
+        "container_id": "KA-0094-W",
+        "flood_level": 31
       }
     },
     {
@@ -1342,7 +1332,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0095-G"
+        "container_id": "KA-0095-G",
+        "flood_level": 25
       }
     },
     {
@@ -1356,49 +1347,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0096-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3156347,
-          52.4634368
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0097-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3156347,
-          52.4634368
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0098-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3156347,
-          52.4634368
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0099-B"
+        "container_id": "KA-0096-B",
+        "flood_level": 12
       }
     },
     {
@@ -1412,7 +1362,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0100-W"
+        "container_id": "KA-0100-W",
+        "flood_level": 59
       }
     },
     {
@@ -1426,7 +1377,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0101-G"
+        "container_id": "KA-0101-G",
+        "flood_level": 29
       }
     },
     {
@@ -1440,7 +1392,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0102-B"
+        "container_id": "KA-0102-B",
+        "flood_level": 56
       }
     },
     {
@@ -1454,7 +1407,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0103-W"
+        "container_id": "KA-0103-W",
+        "flood_level": 61
       }
     },
     {
@@ -1468,7 +1422,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0104-G"
+        "container_id": "KA-0104-G",
+        "flood_level": 64
       }
     },
     {
@@ -1482,7 +1437,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0105-B"
+        "container_id": "KA-0105-B",
+        "flood_level": 11
       }
     },
     {
@@ -1496,7 +1452,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0106-W"
+        "container_id": "KA-0106-W",
+        "flood_level": 63
       }
     },
     {
@@ -1510,7 +1467,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0107-G"
+        "container_id": "KA-0107-G",
+        "flood_level": 33
       }
     },
     {
@@ -1524,7 +1482,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0108-W"
+        "container_id": "KA-0108-W",
+        "flood_level": 83
       }
     },
     {
@@ -1538,7 +1497,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0109-G"
+        "container_id": "KA-0109-G",
+        "flood_level": 14
       }
     },
     {
@@ -1552,7 +1512,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0110-B"
+        "container_id": "KA-0110-B",
+        "flood_level": 49
       }
     },
     {
@@ -1566,7 +1527,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0111-W"
+        "container_id": "KA-0111-W",
+        "flood_level": 23
       }
     },
     {
@@ -1580,7 +1542,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0112-G"
+        "container_id": "KA-0112-G",
+        "flood_level": 36
       }
     },
     {
@@ -1594,7 +1557,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0113-B"
+        "container_id": "KA-0113-B",
+        "flood_level": 17
       }
     },
     {
@@ -1608,7 +1572,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0114-W"
+        "container_id": "KA-0114-W",
+        "flood_level": 57
       }
     },
     {
@@ -1622,7 +1587,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0115-G"
+        "container_id": "KA-0115-G",
+        "flood_level": 67
       }
     },
     {
@@ -1636,7 +1602,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0116-B"
+        "container_id": "KA-0116-B",
+        "flood_level": 64
       }
     },
     {
@@ -1650,7 +1617,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0117-W"
+        "container_id": "KA-0117-W",
+        "flood_level": 76
       }
     },
     {
@@ -1664,7 +1632,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0118-G"
+        "container_id": "KA-0118-G",
+        "flood_level": 46
       }
     },
     {
@@ -1678,91 +1647,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0119-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9174077,
-          53.5655652
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0120-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9174077,
-          53.5655652
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0121-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9174077,
-          53.5655652
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0122-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.213057,
-          48.814118
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0123-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.213057,
-          48.814118
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0124-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.213057,
-          48.814118
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0125-B"
+        "container_id": "KA-0119-B",
+        "flood_level": 43
       }
     },
     {
@@ -1776,7 +1662,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0126-W"
+        "container_id": "KA-0126-W",
+        "flood_level": 6
       }
     },
     {
@@ -1790,7 +1677,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0127-G"
+        "container_id": "KA-0127-G",
+        "flood_level": 39
       }
     },
     {
@@ -1804,7 +1692,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0128-B"
+        "container_id": "KA-0128-B",
+        "flood_level": 100
       }
     },
     {
@@ -1818,7 +1707,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0129-W"
+        "container_id": "KA-0129-W",
+        "flood_level": 43
       }
     },
     {
@@ -1832,7 +1722,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0130-G"
+        "container_id": "KA-0130-G",
+        "flood_level": 56
       }
     },
     {
@@ -1846,7 +1737,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0131-B"
+        "container_id": "KA-0131-B",
+        "flood_level": 26
       }
     },
     {
@@ -1860,7 +1752,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0132-W"
+        "container_id": "KA-0132-W",
+        "flood_level": 25
       }
     },
     {
@@ -1874,7 +1767,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0133-G"
+        "container_id": "KA-0133-G",
+        "flood_level": 55
       }
     },
     {
@@ -1888,7 +1782,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0134-W"
+        "container_id": "KA-0134-W",
+        "flood_level": 68
       }
     },
     {
@@ -1902,7 +1797,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0135-G"
+        "container_id": "KA-0135-G",
+        "flood_level": 85
       }
     },
     {
@@ -1916,7 +1812,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0136-B"
+        "container_id": "KA-0136-B",
+        "flood_level": 65
       }
     },
     {
@@ -1930,7 +1827,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0137-W"
+        "container_id": "KA-0137-W",
+        "flood_level": 80
       }
     },
     {
@@ -1944,7 +1842,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0138-G"
+        "container_id": "KA-0138-G",
+        "flood_level": 49
       }
     },
     {
@@ -1958,35 +1857,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0139-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.3592787,
-          51.3373492
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0140-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.3592787,
-          51.3373492
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0141-G"
+        "container_id": "KA-0139-B",
+        "flood_level": 86
       }
     },
     {
@@ -2000,7 +1872,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0142-W"
+        "container_id": "KA-0142-W",
+        "flood_level": 13
       }
     },
     {
@@ -2014,7 +1887,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0143-G"
+        "container_id": "KA-0143-G",
+        "flood_level": 76
       }
     },
     {
@@ -2028,7 +1902,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0144-W"
+        "container_id": "KA-0144-W",
+        "flood_level": 28
       }
     },
     {
@@ -2042,7 +1917,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0145-G"
+        "container_id": "KA-0145-G",
+        "flood_level": 93
       }
     },
     {
@@ -2056,7 +1932,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0146-B"
+        "container_id": "KA-0146-B",
+        "flood_level": 25
       }
     },
     {
@@ -2070,7 +1947,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0147-W"
+        "container_id": "KA-0147-W",
+        "flood_level": 36
       }
     },
     {
@@ -2084,7 +1962,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0148-G"
+        "container_id": "KA-0148-G",
+        "flood_level": 5
       }
     },
     {
@@ -2098,49 +1977,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0149-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3323203,
-          52.4800537
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0150-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3323203,
-          52.4800537
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0151-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3323203,
-          52.4800537
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0152-B"
+        "container_id": "KA-0149-B",
+        "flood_level": 32
       }
     },
     {
@@ -2154,7 +1992,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0153-W"
+        "container_id": "KA-0153-W",
+        "flood_level": 49
       }
     },
     {
@@ -2168,7 +2007,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0154-G"
+        "container_id": "KA-0154-G",
+        "flood_level": 75
       }
     },
     {
@@ -2182,7 +2022,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0155-B"
+        "container_id": "KA-0155-B",
+        "flood_level": 65
       }
     },
     {
@@ -2196,7 +2037,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0156-W"
+        "container_id": "KA-0156-W",
+        "flood_level": 58
       }
     },
     {
@@ -2210,7 +2052,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0157-G"
+        "container_id": "KA-0157-G",
+        "flood_level": 8
       }
     },
     {
@@ -2224,7 +2067,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0158-W"
+        "container_id": "KA-0158-W",
+        "flood_level": 26
       }
     },
     {
@@ -2238,7 +2082,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0159-G"
+        "container_id": "KA-0159-G",
+        "flood_level": 5
       }
     },
     {
@@ -2252,7 +2097,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0160-B"
+        "container_id": "KA-0160-B",
+        "flood_level": 71
       }
     },
     {
@@ -2266,7 +2112,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0161-W"
+        "container_id": "KA-0161-W",
+        "flood_level": 87
       }
     },
     {
@@ -2280,7 +2127,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0162-G"
+        "container_id": "KA-0162-G",
+        "flood_level": 21
       }
     },
     {
@@ -2294,7 +2142,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0163-B"
+        "container_id": "KA-0163-B",
+        "flood_level": 80
       }
     },
     {
@@ -2308,7 +2157,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0164-W"
+        "container_id": "KA-0164-W",
+        "flood_level": 30
       }
     },
     {
@@ -2322,7 +2172,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0165-G"
+        "container_id": "KA-0165-G",
+        "flood_level": 89
       }
     },
     {
@@ -2336,7 +2187,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0166-B"
+        "container_id": "KA-0166-B",
+        "flood_level": 29
       }
     },
     {
@@ -2350,7 +2202,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0167-W"
+        "container_id": "KA-0167-W",
+        "flood_level": 55
       }
     },
     {
@@ -2364,7 +2217,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0168-G"
+        "container_id": "KA-0168-G",
+        "flood_level": 98
       }
     },
     {
@@ -2378,7 +2232,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0169-B"
+        "container_id": "KA-0169-B",
+        "flood_level": 38
       }
     },
     {
@@ -2392,7 +2247,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0170-W"
+        "container_id": "KA-0170-W",
+        "flood_level": 43
       }
     },
     {
@@ -2406,7 +2262,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0171-G"
+        "container_id": "KA-0171-G",
+        "flood_level": 15
       }
     },
     {
@@ -2420,7 +2277,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0172-B"
+        "container_id": "KA-0172-B",
+        "flood_level": 84
       }
     },
     {
@@ -2434,7 +2292,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0173-W"
+        "container_id": "KA-0173-W",
+        "flood_level": 23
       }
     },
     {
@@ -2448,7 +2307,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0174-G"
+        "container_id": "KA-0174-G",
+        "flood_level": 15
       }
     },
     {
@@ -2462,7 +2322,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0175-B"
+        "container_id": "KA-0175-B",
+        "flood_level": 79
       }
     },
     {
@@ -2476,7 +2337,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0176-W"
+        "container_id": "KA-0176-W",
+        "flood_level": 83
       }
     },
     {
@@ -2490,77 +2352,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0177-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.7047461,
-          50.1267338
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0178-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.7047461,
-          50.1267338
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0179-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3541995,
-          52.4880854
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0180-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3541995,
-          52.4880854
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0181-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3541995,
-          52.4880854
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0182-B"
+        "container_id": "KA-0177-G",
+        "flood_level": 32
       }
     },
     {
@@ -2574,7 +2367,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0183-W"
+        "container_id": "KA-0183-W",
+        "flood_level": 46
       }
     },
     {
@@ -2588,7 +2382,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0184-G"
+        "container_id": "KA-0184-G",
+        "flood_level": 45
       }
     },
     {
@@ -2602,7 +2397,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0185-W"
+        "container_id": "KA-0185-W",
+        "flood_level": 40
       }
     },
     {
@@ -2616,7 +2412,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0186-G"
+        "container_id": "KA-0186-G",
+        "flood_level": 26
       }
     },
     {
@@ -2630,7 +2427,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0187-W"
+        "container_id": "KA-0187-W",
+        "flood_level": 95
       }
     },
     {
@@ -2644,7 +2442,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0188-G"
+        "container_id": "KA-0188-G",
+        "flood_level": 58
       }
     },
     {
@@ -2658,7 +2457,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0189-B"
+        "container_id": "KA-0189-B",
+        "flood_level": 65
       }
     },
     {
@@ -2672,7 +2472,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0190-W"
+        "container_id": "KA-0190-W",
+        "flood_level": 65
       }
     },
     {
@@ -2686,7 +2487,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0191-G"
+        "container_id": "KA-0191-G",
+        "flood_level": 43
       }
     },
     {
@@ -2700,7 +2502,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0192-B"
+        "container_id": "KA-0192-B",
+        "flood_level": 13
       }
     },
     {
@@ -2714,7 +2517,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0193-W"
+        "container_id": "KA-0193-W",
+        "flood_level": 2
       }
     },
     {
@@ -2728,7 +2532,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0194-G"
+        "container_id": "KA-0194-G",
+        "flood_level": 8
       }
     },
     {
@@ -2742,7 +2547,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0195-B"
+        "container_id": "KA-0195-B",
+        "flood_level": 83
       }
     },
     {
@@ -2756,7 +2562,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0196-W"
+        "container_id": "KA-0196-W",
+        "flood_level": 26
       }
     },
     {
@@ -2770,7 +2577,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0197-G"
+        "container_id": "KA-0197-G",
+        "flood_level": 25
       }
     },
     {
@@ -2784,7 +2592,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0198-B"
+        "container_id": "KA-0198-B",
+        "flood_level": 22
       }
     },
     {
@@ -2798,7 +2607,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0199-W"
+        "container_id": "KA-0199-W",
+        "flood_level": 6
       }
     },
     {
@@ -2812,7 +2622,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0200-G"
+        "container_id": "KA-0200-G",
+        "flood_level": 38
       }
     },
     {
@@ -2826,7 +2637,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0201-W"
+        "container_id": "KA-0201-W",
+        "flood_level": 38
       }
     },
     {
@@ -2840,7 +2652,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0202-G"
+        "container_id": "KA-0202-G",
+        "flood_level": 54
       }
     },
     {
@@ -2854,7 +2667,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0203-W"
+        "container_id": "KA-0203-W",
+        "flood_level": 47
       }
     },
     {
@@ -2868,7 +2682,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0204-G"
+        "container_id": "KA-0204-G",
+        "flood_level": 46
       }
     },
     {
@@ -2882,7 +2697,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0205-W"
+        "container_id": "KA-0205-W",
+        "flood_level": 46
       }
     },
     {
@@ -2896,7 +2712,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0206-G"
+        "container_id": "KA-0206-G",
+        "flood_level": 82
       }
     },
     {
@@ -2910,7 +2727,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0207-B"
+        "container_id": "KA-0207-B",
+        "flood_level": 88
       }
     },
     {
@@ -2924,7 +2742,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0208-W"
+        "container_id": "KA-0208-W",
+        "flood_level": 65
       }
     },
     {
@@ -2938,7 +2757,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0209-G"
+        "container_id": "KA-0209-G",
+        "flood_level": 56
       }
     },
     {
@@ -2952,7 +2772,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0210-B"
+        "container_id": "KA-0210-B",
+        "flood_level": 35
       }
     },
     {
@@ -2966,7 +2787,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0211-W"
+        "container_id": "KA-0211-W",
+        "flood_level": 89
       }
     },
     {
@@ -2980,7 +2802,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0212-G"
+        "container_id": "KA-0212-G",
+        "flood_level": 65
       }
     },
     {
@@ -2994,49 +2817,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0213-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.3531961,
-          49.6469994
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0214-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.3531961,
-          49.6469994
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0215-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.3531961,
-          49.6469994
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0216-B"
+        "container_id": "KA-0213-B",
+        "flood_level": 97
       }
     },
     {
@@ -3050,7 +2832,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0217-W"
+        "container_id": "KA-0217-W",
+        "flood_level": 5
       }
     },
     {
@@ -3064,7 +2847,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0218-G"
+        "container_id": "KA-0218-G",
+        "flood_level": 13
       }
     },
     {
@@ -3078,7 +2862,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0219-B"
+        "container_id": "KA-0219-B",
+        "flood_level": 39
       }
     },
     {
@@ -3092,7 +2877,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0220-W"
+        "container_id": "KA-0220-W",
+        "flood_level": 8
       }
     },
     {
@@ -3106,7 +2892,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0221-G"
+        "container_id": "KA-0221-G",
+        "flood_level": 22
       }
     },
     {
@@ -3120,91 +2907,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0222-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.6485293,
-          48.0998173
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0223-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.6485293,
-          48.0998173
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0224-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.6485293,
-          48.0998173
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0225-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6569989,
-          51.6000389
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0226-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6569989,
-          51.6000389
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0227-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6569989,
-          51.6000389
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0228-B"
+        "container_id": "KA-0222-B",
+        "flood_level": 38
       }
     },
     {
@@ -3218,7 +2922,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0229-W"
+        "container_id": "KA-0229-W",
+        "flood_level": 94
       }
     },
     {
@@ -3232,7 +2937,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0230-G"
+        "container_id": "KA-0230-G",
+        "flood_level": 38
       }
     },
     {
@@ -3246,7 +2952,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0231-B"
+        "container_id": "KA-0231-B",
+        "flood_level": 95
       }
     },
     {
@@ -3260,7 +2967,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0232-W"
+        "container_id": "KA-0232-W",
+        "flood_level": 74
       }
     },
     {
@@ -3274,7 +2982,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0233-G"
+        "container_id": "KA-0233-G",
+        "flood_level": 88
       }
     },
     {
@@ -3288,7 +2997,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0234-W"
+        "container_id": "KA-0234-W",
+        "flood_level": 28
       }
     },
     {
@@ -3302,7 +3012,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0235-G"
+        "container_id": "KA-0235-G",
+        "flood_level": 71
       }
     },
     {
@@ -3316,7 +3027,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0236-B"
+        "container_id": "KA-0236-B",
+        "flood_level": 97
       }
     },
     {
@@ -3330,7 +3042,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0237-W"
+        "container_id": "KA-0237-W",
+        "flood_level": 27
       }
     },
     {
@@ -3344,7 +3057,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0238-G"
+        "container_id": "KA-0238-G",
+        "flood_level": 87
       }
     },
     {
@@ -3358,7 +3072,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0239-B"
+        "container_id": "KA-0239-B",
+        "flood_level": 57
       }
     },
     {
@@ -3372,7 +3087,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0240-W"
+        "container_id": "KA-0240-W",
+        "flood_level": 9
       }
     },
     {
@@ -3386,7 +3102,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0241-G"
+        "container_id": "KA-0241-G",
+        "flood_level": 26
       }
     },
     {
@@ -3400,7 +3117,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0242-B"
+        "container_id": "KA-0242-B",
+        "flood_level": 27
       }
     },
     {
@@ -3414,7 +3132,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0243-W"
+        "container_id": "KA-0243-W",
+        "flood_level": 18
       }
     },
     {
@@ -3428,7 +3147,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0244-G"
+        "container_id": "KA-0244-G",
+        "flood_level": 6
       }
     },
     {
@@ -3442,7 +3162,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0245-W"
+        "container_id": "KA-0245-W",
+        "flood_level": 77
       }
     },
     {
@@ -3456,35 +3177,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0246-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.2236397,
-          50.0799862
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0247-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.2236397,
-          50.0799862
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0248-G"
+        "container_id": "KA-0246-G",
+        "flood_level": 92
       }
     },
     {
@@ -3498,7 +3192,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0249-W"
+        "container_id": "KA-0249-W",
+        "flood_level": 9
       }
     },
     {
@@ -3512,7 +3207,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0250-G"
+        "container_id": "KA-0250-G",
+        "flood_level": 32
       }
     },
     {
@@ -3526,7 +3222,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0251-W"
+        "container_id": "KA-0251-W",
+        "flood_level": 91
       }
     },
     {
@@ -3540,7 +3237,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0252-G"
+        "container_id": "KA-0252-G",
+        "flood_level": 12
       }
     },
     {
@@ -3554,7 +3252,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0253-B"
+        "container_id": "KA-0253-B",
+        "flood_level": 11
       }
     },
     {
@@ -3568,7 +3267,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0254-W"
+        "container_id": "KA-0254-W",
+        "flood_level": 55
       }
     },
     {
@@ -3582,7 +3282,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0255-G"
+        "container_id": "KA-0255-G",
+        "flood_level": 31
       }
     },
     {
@@ -3596,7 +3297,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0256-B"
+        "container_id": "KA-0256-B",
+        "flood_level": 30
       }
     },
     {
@@ -3610,7 +3312,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0257-W"
+        "container_id": "KA-0257-W",
+        "flood_level": 39
       }
     },
     {
@@ -3624,7 +3327,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0258-G"
+        "container_id": "KA-0258-G",
+        "flood_level": 29
       }
     },
     {
@@ -3638,7 +3342,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0259-B"
+        "container_id": "KA-0259-B",
+        "flood_level": 72
       }
     },
     {
@@ -3652,7 +3357,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0260-W"
+        "container_id": "KA-0260-W",
+        "flood_level": 74
       }
     },
     {
@@ -3666,7 +3372,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0261-G"
+        "container_id": "KA-0261-G",
+        "flood_level": 53
       }
     },
     {
@@ -3680,7 +3387,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0262-B"
+        "container_id": "KA-0262-B",
+        "flood_level": 42
       }
     },
     {
@@ -3694,7 +3402,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0263-W"
+        "container_id": "KA-0263-W",
+        "flood_level": 12
       }
     },
     {
@@ -3708,7 +3417,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0264-G"
+        "container_id": "KA-0264-G",
+        "flood_level": 97
       }
     },
     {
@@ -3722,7 +3432,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0265-B"
+        "container_id": "KA-0265-B",
+        "flood_level": 94
       }
     },
     {
@@ -3736,7 +3447,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0266-W"
+        "container_id": "KA-0266-W",
+        "flood_level": 91
       }
     },
     {
@@ -3750,7 +3462,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0267-G"
+        "container_id": "KA-0267-G",
+        "flood_level": 97
       }
     },
     {
@@ -3764,7 +3477,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0268-B"
+        "container_id": "KA-0268-B",
+        "flood_level": 11
       }
     },
     {
@@ -3778,7 +3492,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0269-W"
+        "container_id": "KA-0269-W",
+        "flood_level": 12
       }
     },
     {
@@ -3792,7 +3507,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0270-G"
+        "container_id": "KA-0270-G",
+        "flood_level": 21
       }
     },
     {
@@ -3806,7 +3522,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0271-B"
+        "container_id": "KA-0271-B",
+        "flood_level": 9
       }
     },
     {
@@ -3820,7 +3537,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0272-W"
+        "container_id": "KA-0272-W",
+        "flood_level": 5
       }
     },
     {
@@ -3834,7 +3552,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0273-G"
+        "container_id": "KA-0273-G",
+        "flood_level": 55
       }
     },
     {
@@ -3848,35 +3567,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0274-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.5418683,
-          52.245543
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0275-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.5418683,
-          52.245543
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0276-G"
+        "container_id": "KA-0274-B",
+        "flood_level": 61
       }
     },
     {
@@ -3890,7 +3582,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0277-W"
+        "container_id": "KA-0277-W",
+        "flood_level": 30
       }
     },
     {
@@ -3904,7 +3597,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0278-G"
+        "container_id": "KA-0278-G",
+        "flood_level": 41
       }
     },
     {
@@ -3918,77 +3612,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0279-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.4784158,
-          49.4867826
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0280-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.4784158,
-          49.4867826
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0281-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.2394036,
-          50.0778416
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0282-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.2394036,
-          50.0778416
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0283-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.2394036,
-          50.0778416
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0284-B"
+        "container_id": "KA-0279-B",
+        "flood_level": 31
       }
     },
     {
@@ -4002,7 +3627,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0285-W"
+        "container_id": "KA-0285-W",
+        "flood_level": 52
       }
     },
     {
@@ -4016,7 +3642,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0286-G"
+        "container_id": "KA-0286-G",
+        "flood_level": 92
       }
     },
     {
@@ -4030,7 +3657,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0287-W"
+        "container_id": "KA-0287-W",
+        "flood_level": 61
       }
     },
     {
@@ -4044,7 +3672,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0288-G"
+        "container_id": "KA-0288-G",
+        "flood_level": 61
       }
     },
     {
@@ -4058,7 +3687,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0289-W"
+        "container_id": "KA-0289-W",
+        "flood_level": 4
       }
     },
     {
@@ -4072,7 +3702,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0290-G"
+        "container_id": "KA-0290-G",
+        "flood_level": 68
       }
     },
     {
@@ -4086,7 +3717,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0291-W"
+        "container_id": "KA-0291-W",
+        "flood_level": 21
       }
     },
     {
@@ -4100,7 +3732,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0292-G"
+        "container_id": "KA-0292-G",
+        "flood_level": 64
       }
     },
     {
@@ -4114,7 +3747,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0293-B"
+        "container_id": "KA-0293-B",
+        "flood_level": 16
       }
     },
     {
@@ -4128,7 +3762,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0294-W"
+        "container_id": "KA-0294-W",
+        "flood_level": 27
       }
     },
     {
@@ -4142,7 +3777,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0295-G"
+        "container_id": "KA-0295-G",
+        "flood_level": 82
       }
     },
     {
@@ -4156,7 +3792,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0296-B"
+        "container_id": "KA-0296-B",
+        "flood_level": 48
       }
     },
     {
@@ -4170,7 +3807,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0297-W"
+        "container_id": "KA-0297-W",
+        "flood_level": 4
       }
     },
     {
@@ -4184,7 +3822,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0298-G"
+        "container_id": "KA-0298-G",
+        "flood_level": 34
       }
     },
     {
@@ -4198,7 +3837,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0299-W"
+        "container_id": "KA-0299-W",
+        "flood_level": 25
       }
     },
     {
@@ -4212,7 +3852,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0300-G"
+        "container_id": "KA-0300-G",
+        "flood_level": 41
       }
     },
     {
@@ -4226,7 +3867,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0301-W"
+        "container_id": "KA-0301-W",
+        "flood_level": 41
       }
     },
     {
@@ -4240,7 +3882,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0302-G"
+        "container_id": "KA-0302-G",
+        "flood_level": 37
       }
     },
     {
@@ -4254,7 +3897,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0303-W"
+        "container_id": "KA-0303-W",
+        "flood_level": 50
       }
     },
     {
@@ -4268,49 +3912,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0304-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.5651246,
-          48.1364207
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0305-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.5651246,
-          48.1364207
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0306-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.5651246,
-          48.1364207
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0307-B"
+        "container_id": "KA-0304-G",
+        "flood_level": 54
       }
     },
     {
@@ -4324,7 +3927,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0308-W"
+        "container_id": "KA-0308-W",
+        "flood_level": 62
       }
     },
     {
@@ -4338,7 +3942,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0309-G"
+        "container_id": "KA-0309-G",
+        "flood_level": 81
       }
     },
     {
@@ -4352,7 +3957,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0310-W"
+        "container_id": "KA-0310-W",
+        "flood_level": 84
       }
     },
     {
@@ -4366,7 +3972,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0311-G"
+        "container_id": "KA-0311-G",
+        "flood_level": 14
       }
     },
     {
@@ -4380,7 +3987,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0312-B"
+        "container_id": "KA-0312-B",
+        "flood_level": 7
       }
     },
     {
@@ -4394,7 +4002,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0313-W"
+        "container_id": "KA-0313-W",
+        "flood_level": 43
       }
     },
     {
@@ -4408,7 +4017,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0314-G"
+        "container_id": "KA-0314-G",
+        "flood_level": 6
       }
     },
     {
@@ -4422,7 +4032,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0315-B"
+        "container_id": "KA-0315-B",
+        "flood_level": 39
       }
     },
     {
@@ -4436,7 +4047,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0316-W"
+        "container_id": "KA-0316-W",
+        "flood_level": 61
       }
     },
     {
@@ -4450,7 +4062,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0317-G"
+        "container_id": "KA-0317-G",
+        "flood_level": 84
       }
     },
     {
@@ -4464,91 +4077,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0318-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.0090831,
-          54.0459388
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0319-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.0090831,
-          54.0459388
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0320-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.0090831,
-          54.0459388
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0321-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4539683,
-          52.4404991
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0322-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4539683,
-          52.4404991
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0323-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4539683,
-          52.4404991
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0324-B"
+        "container_id": "KA-0318-B",
+        "flood_level": 56
       }
     },
     {
@@ -4562,7 +4092,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0325-W"
+        "container_id": "KA-0325-W",
+        "flood_level": 82
       }
     },
     {
@@ -4576,7 +4107,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0326-G"
+        "container_id": "KA-0326-G",
+        "flood_level": 25
       }
     },
     {
@@ -4590,49 +4122,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0327-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.7761368,
-          50.9400578
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0328-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.7761368,
-          50.9400578
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0329-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.7761368,
-          50.9400578
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0330-B"
+        "container_id": "KA-0327-B",
+        "flood_level": 12
       }
     },
     {
@@ -4646,7 +4137,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0331-W"
+        "container_id": "KA-0331-W",
+        "flood_level": 38
       }
     },
     {
@@ -4660,7 +4152,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0332-G"
+        "container_id": "KA-0332-G",
+        "flood_level": 41
       }
     },
     {
@@ -4674,7 +4167,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0333-B"
+        "container_id": "KA-0333-B",
+        "flood_level": 44
       }
     },
     {
@@ -4688,7 +4182,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0334-W"
+        "container_id": "KA-0334-W",
+        "flood_level": 9
       }
     },
     {
@@ -4702,7 +4197,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0335-G"
+        "container_id": "KA-0335-G",
+        "flood_level": 65
       }
     },
     {
@@ -4716,7 +4212,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0336-B"
+        "container_id": "KA-0336-B",
+        "flood_level": 78
       }
     },
     {
@@ -4730,7 +4227,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0337-W"
+        "container_id": "KA-0337-W",
+        "flood_level": 72
       }
     },
     {
@@ -4744,7 +4242,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0338-G"
+        "container_id": "KA-0338-G",
+        "flood_level": 62
       }
     },
     {
@@ -4758,7 +4257,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0339-W"
+        "container_id": "KA-0339-W",
+        "flood_level": 58
       }
     },
     {
@@ -4772,7 +4272,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0340-G"
+        "container_id": "KA-0340-G",
+        "flood_level": 94
       }
     },
     {
@@ -4786,7 +4287,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0341-B"
+        "container_id": "KA-0341-B",
+        "flood_level": 1
       }
     },
     {
@@ -4800,7 +4302,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0342-W"
+        "container_id": "KA-0342-W",
+        "flood_level": 74
       }
     },
     {
@@ -4814,7 +4317,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0343-G"
+        "container_id": "KA-0343-G",
+        "flood_level": 16
       }
     },
     {
@@ -4828,7 +4332,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0344-B"
+        "container_id": "KA-0344-B",
+        "flood_level": 71
       }
     },
     {
@@ -4842,7 +4347,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0345-W"
+        "container_id": "KA-0345-W",
+        "flood_level": 23
       }
     },
     {
@@ -4856,7 +4362,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0346-G"
+        "container_id": "KA-0346-G",
+        "flood_level": 24
       }
     },
     {
@@ -4870,7 +4377,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0347-B"
+        "container_id": "KA-0347-B",
+        "flood_level": 14
       }
     },
     {
@@ -4884,7 +4392,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0348-W"
+        "container_id": "KA-0348-W",
+        "flood_level": 22
       }
     },
     {
@@ -4898,7 +4407,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0349-G"
+        "container_id": "KA-0349-G",
+        "flood_level": 88
       }
     },
     {
@@ -4912,77 +4422,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0350-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.1546804,
-          51.7937394
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0351-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.1546804,
-          51.7937394
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0352-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.3982713,
-          51.5286967
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0353-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.3982713,
-          51.5286967
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0354-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.3982713,
-          51.5286967
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0355-B"
+        "container_id": "KA-0350-B",
+        "flood_level": 31
       }
     },
     {
@@ -4996,7 +4437,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0356-W"
+        "container_id": "KA-0356-W",
+        "flood_level": 74
       }
     },
     {
@@ -5010,49 +4452,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0357-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.4488172,
-          51.1908309
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0358-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.4488172,
-          51.1908309
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0359-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.4488172,
-          51.1908309
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0360-B"
+        "container_id": "KA-0357-G",
+        "flood_level": 54
       }
     },
     {
@@ -5066,7 +4467,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0361-W"
+        "container_id": "KA-0361-W",
+        "flood_level": 75
       }
     },
     {
@@ -5080,7 +4482,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0362-G"
+        "container_id": "KA-0362-G",
+        "flood_level": 68
       }
     },
     {
@@ -5094,7 +4497,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0363-B"
+        "container_id": "KA-0363-B",
+        "flood_level": 20
       }
     },
     {
@@ -5108,7 +4512,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0364-W"
+        "container_id": "KA-0364-W",
+        "flood_level": 54
       }
     },
     {
@@ -5122,7 +4527,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0365-G"
+        "container_id": "KA-0365-G",
+        "flood_level": 4
       }
     },
     {
@@ -5136,49 +4542,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0366-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.7269252,
-          47.3459047
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0367-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.7269252,
-          47.3459047
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0368-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.7269252,
-          47.3459047
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0369-B"
+        "container_id": "KA-0366-B",
+        "flood_level": 84
       }
     },
     {
@@ -5192,7 +4557,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0370-W"
+        "container_id": "KA-0370-W",
+        "flood_level": 43
       }
     },
     {
@@ -5206,7 +4572,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0371-G"
+        "container_id": "KA-0371-G",
+        "flood_level": 13
       }
     },
     {
@@ -5220,7 +4587,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0372-B"
+        "container_id": "KA-0372-B",
+        "flood_level": 26
       }
     },
     {
@@ -5234,7 +4602,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0373-W"
+        "container_id": "KA-0373-W",
+        "flood_level": 54
       }
     },
     {
@@ -5248,7 +4617,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0374-G"
+        "container_id": "KA-0374-G",
+        "flood_level": 10
       }
     },
     {
@@ -5262,7 +4632,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0375-B"
+        "container_id": "KA-0375-B",
+        "flood_level": 48
       }
     },
     {
@@ -5276,7 +4647,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0376-W"
+        "container_id": "KA-0376-W",
+        "flood_level": 53
       }
     },
     {
@@ -5290,7 +4662,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0377-G"
+        "container_id": "KA-0377-G",
+        "flood_level": 57
       }
     },
     {
@@ -5304,7 +4677,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0378-W"
+        "container_id": "KA-0378-W",
+        "flood_level": 86
       }
     },
     {
@@ -5318,7 +4692,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0379-G"
+        "container_id": "KA-0379-G",
+        "flood_level": 66
       }
     },
     {
@@ -5332,7 +4707,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0380-B"
+        "container_id": "KA-0380-B",
+        "flood_level": 6
       }
     },
     {
@@ -5346,7 +4722,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0381-W"
+        "container_id": "KA-0381-W",
+        "flood_level": 56
       }
     },
     {
@@ -5360,7 +4737,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0382-G"
+        "container_id": "KA-0382-G",
+        "flood_level": 12
       }
     },
     {
@@ -5374,7 +4752,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0383-B"
+        "container_id": "KA-0383-B",
+        "flood_level": 48
       }
     },
     {
@@ -5388,7 +4767,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0384-W"
+        "container_id": "KA-0384-W",
+        "flood_level": 16
       }
     },
     {
@@ -5402,7 +4782,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0385-G"
+        "container_id": "KA-0385-G",
+        "flood_level": 28
       }
     },
     {
@@ -5416,7 +4797,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0386-B"
+        "container_id": "KA-0386-B",
+        "flood_level": 9
       }
     },
     {
@@ -5430,7 +4812,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0387-W"
+        "container_id": "KA-0387-W",
+        "flood_level": 38
       }
     },
     {
@@ -5444,7 +4827,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0388-G"
+        "container_id": "KA-0388-G",
+        "flood_level": 52
       }
     },
     {
@@ -5458,7 +4842,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0389-B"
+        "container_id": "KA-0389-B",
+        "flood_level": 56
       }
     },
     {
@@ -5472,7 +4857,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0390-W"
+        "container_id": "KA-0390-W",
+        "flood_level": 68
       }
     },
     {
@@ -5486,7 +4872,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0391-G"
+        "container_id": "KA-0391-G",
+        "flood_level": 42
       }
     },
     {
@@ -5500,7 +4887,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0392-B"
+        "container_id": "KA-0392-B",
+        "flood_level": 41
       }
     },
     {
@@ -5514,7 +4902,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0393-W"
+        "container_id": "KA-0393-W",
+        "flood_level": 11
       }
     },
     {
@@ -5528,7 +4917,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0394-G"
+        "container_id": "KA-0394-G",
+        "flood_level": 58
       }
     },
     {
@@ -5542,7 +4932,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0395-B"
+        "container_id": "KA-0395-B",
+        "flood_level": 92
       }
     },
     {
@@ -5556,7 +4947,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0396-W"
+        "container_id": "KA-0396-W",
+        "flood_level": 81
       }
     },
     {
@@ -5570,7 +4962,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0397-G"
+        "container_id": "KA-0397-G",
+        "flood_level": 24
       }
     },
     {
@@ -5584,7 +4977,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0398-B"
+        "container_id": "KA-0398-B",
+        "flood_level": 10
       }
     },
     {
@@ -5598,7 +4992,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0399-W"
+        "container_id": "KA-0399-W",
+        "flood_level": 98
       }
     },
     {
@@ -5612,7 +5007,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0400-G"
+        "container_id": "KA-0400-G",
+        "flood_level": 18
       }
     },
     {
@@ -5626,7 +5022,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0401-W"
+        "container_id": "KA-0401-W",
+        "flood_level": 95
       }
     },
     {
@@ -5640,7 +5037,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0402-G"
+        "container_id": "KA-0402-G",
+        "flood_level": 38
       }
     },
     {
@@ -5654,7 +5052,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0403-B"
+        "container_id": "KA-0403-B",
+        "flood_level": 48
       }
     },
     {
@@ -5668,7 +5067,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0404-W"
+        "container_id": "KA-0404-W",
+        "flood_level": 22
       }
     },
     {
@@ -5682,7 +5082,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0405-G"
+        "container_id": "KA-0405-G",
+        "flood_level": 21
       }
     },
     {
@@ -5696,7 +5097,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0406-W"
+        "container_id": "KA-0406-W",
+        "flood_level": 44
       }
     },
     {
@@ -5710,7 +5112,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0407-G"
+        "container_id": "KA-0407-G",
+        "flood_level": 66
       }
     },
     {
@@ -5724,7 +5127,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0408-B"
+        "container_id": "KA-0408-B",
+        "flood_level": 81
       }
     },
     {
@@ -5738,7 +5142,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0409-W"
+        "container_id": "KA-0409-W",
+        "flood_level": 60
       }
     },
     {
@@ -5752,7 +5157,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0410-G"
+        "container_id": "KA-0410-G",
+        "flood_level": 76
       }
     },
     {
@@ -5766,7 +5172,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0411-B"
+        "container_id": "KA-0411-B",
+        "flood_level": 43
       }
     },
     {
@@ -5780,7 +5187,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0412-W"
+        "container_id": "KA-0412-W",
+        "flood_level": 80
       }
     },
     {
@@ -5794,49 +5202,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0413-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.318491,
-          52.4727668
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0414-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.318491,
-          52.4727668
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0415-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.318491,
-          52.4727668
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0416-B"
+        "container_id": "KA-0413-G",
+        "flood_level": 98
       }
     },
     {
@@ -5850,7 +5217,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0417-W"
+        "container_id": "KA-0417-W",
+        "flood_level": 27
       }
     },
     {
@@ -5864,7 +5232,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0418-G"
+        "container_id": "KA-0418-G",
+        "flood_level": 88
       }
     },
     {
@@ -5878,7 +5247,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0419-B"
+        "container_id": "KA-0414-W",
+        "flood_level": 20
       }
     },
     {
@@ -5892,7 +5262,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0420-W"
+        "container_id": "KA-0420-W",
+        "flood_level": 33
       }
     },
     {
@@ -5906,7 +5277,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0421-G"
+        "container_id": "KA-0421-G",
+        "flood_level": 3
       }
     },
     {
@@ -5920,7 +5292,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0422-B"
+        "container_id": "KA-0422-B",
+        "flood_level": 28
       }
     },
     {
@@ -5934,7 +5307,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0423-W"
+        "container_id": "KA-0423-W",
+        "flood_level": 43
       }
     },
     {
@@ -5948,7 +5322,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0424-G"
+        "container_id": "KA-0424-G",
+        "flood_level": 10
       }
     },
     {
@@ -5962,7 +5337,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0425-B"
+        "container_id": "KA-0425-B",
+        "flood_level": 47
       }
     },
     {
@@ -5976,7 +5352,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0426-W"
+        "container_id": "KA-0426-W",
+        "flood_level": 20
       }
     },
     {
@@ -5990,7 +5367,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0427-G"
+        "container_id": "KA-0427-G",
+        "flood_level": 68
       }
     },
     {
@@ -6004,63 +5382,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0428-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.435662,
-          52.5361099
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0429-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.435662,
-          52.5361099
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0430-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.435662,
-          52.5361099
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0431-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.435662,
-          52.5361099
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0432-G"
+        "container_id": "KA-0428-B",
+        "flood_level": 57
       }
     },
     {
@@ -6074,7 +5397,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0433-W"
+        "container_id": "KA-0433-W",
+        "flood_level": 67
       }
     },
     {
@@ -6088,7 +5412,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0434-G"
+        "container_id": "KA-0434-G",
+        "flood_level": 83
       }
     },
     {
@@ -6102,7 +5427,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0435-B"
+        "container_id": "KA-0435-B",
+        "flood_level": 10
       }
     },
     {
@@ -6116,7 +5442,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0436-W"
+        "container_id": "KA-0436-W",
+        "flood_level": 76
       }
     },
     {
@@ -6130,7 +5457,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0437-G"
+        "container_id": "KA-0437-G",
+        "flood_level": 25
       }
     },
     {
@@ -6144,7 +5472,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0438-B"
+        "container_id": "KA-0438-B",
+        "flood_level": 81
       }
     },
     {
@@ -6158,7 +5487,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0439-W"
+        "container_id": "KA-0439-W",
+        "flood_level": 9
       }
     },
     {
@@ -6172,7 +5502,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0440-G"
+        "container_id": "KA-0440-G",
+        "flood_level": 50
       }
     },
     {
@@ -6186,7 +5517,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0441-B"
+        "container_id": "KA-0441-B",
+        "flood_level": 90
       }
     },
     {
@@ -6200,7 +5532,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0442-W"
+        "container_id": "KA-0442-W",
+        "flood_level": 30
       }
     },
     {
@@ -6214,7 +5547,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0443-G"
+        "container_id": "KA-0443-G",
+        "flood_level": 49
       }
     },
     {
@@ -6228,7 +5562,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0444-B"
+        "container_id": "KA-0444-B",
+        "flood_level": 3
       }
     },
     {
@@ -6242,7 +5577,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0445-W"
+        "container_id": "KA-0445-W",
+        "flood_level": 82
       }
     },
     {
@@ -6256,7 +5592,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0446-G"
+        "container_id": "KA-0446-G",
+        "flood_level": 19
       }
     },
     {
@@ -6270,49 +5607,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0447-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.9924199,
-          49.4720973
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0448-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.9924199,
-          49.4720973
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0449-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.9924199,
-          49.4720973
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0450-B"
+        "container_id": "KA-0447-B",
+        "flood_level": 89
       }
     },
     {
@@ -6326,7 +5622,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0451-W"
+        "container_id": "KA-0451-W",
+        "flood_level": 60
       }
     },
     {
@@ -6340,7 +5637,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0452-G"
+        "container_id": "KA-0452-G",
+        "flood_level": 12
       }
     },
     {
@@ -6354,7 +5652,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0453-B"
+        "container_id": "KA-0453-B",
+        "flood_level": 5
       }
     },
     {
@@ -6368,7 +5667,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0454-W"
+        "container_id": "KA-0454-W",
+        "flood_level": 95
       }
     },
     {
@@ -6382,7 +5682,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0455-G"
+        "container_id": "KA-0455-G",
+        "flood_level": 42
       }
     },
     {
@@ -6396,7 +5697,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0456-B"
+        "container_id": "KA-0456-B",
+        "flood_level": 51
       }
     },
     {
@@ -6410,7 +5712,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0457-W"
+        "container_id": "KA-0457-W",
+        "flood_level": 37
       }
     },
     {
@@ -6424,7 +5727,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0458-G"
+        "container_id": "KA-0458-G",
+        "flood_level": 38
       }
     },
     {
@@ -6438,7 +5742,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0459-W"
+        "container_id": "KA-0459-W",
+        "flood_level": 24
       }
     },
     {
@@ -6452,7 +5757,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0460-G"
+        "container_id": "KA-0460-G",
+        "flood_level": 91
       }
     },
     {
@@ -6466,7 +5772,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0461-B"
+        "container_id": "KA-0461-B",
+        "flood_level": 54
       }
     },
     {
@@ -6480,7 +5787,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0462-W"
+        "container_id": "KA-0462-W",
+        "flood_level": 60
       }
     },
     {
@@ -6494,7 +5802,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0463-G"
+        "container_id": "KA-0463-G",
+        "flood_level": 63
       }
     },
     {
@@ -6508,7 +5817,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0464-B"
+        "container_id": "KA-0464-B",
+        "flood_level": 65
       }
     },
     {
@@ -6522,7 +5832,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0465-W"
+        "container_id": "KA-0465-W",
+        "flood_level": 92
       }
     },
     {
@@ -6536,7 +5847,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0466-G"
+        "container_id": "KA-0466-G",
+        "flood_level": 94
       }
     },
     {
@@ -6550,7 +5862,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0467-B"
+        "container_id": "KA-0467-B",
+        "flood_level": 1
       }
     },
     {
@@ -6564,7 +5877,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0468-W"
+        "container_id": "KA-0468-W",
+        "flood_level": 77
       }
     },
     {
@@ -6578,7 +5892,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0469-G"
+        "container_id": "KA-0469-G",
+        "flood_level": 33
       }
     },
     {
@@ -6592,7 +5907,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0470-B"
+        "container_id": "KA-0470-B",
+        "flood_level": 17
       }
     },
     {
@@ -6606,7 +5922,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0471-W"
+        "container_id": "KA-0471-W",
+        "flood_level": 17
       }
     },
     {
@@ -6620,7 +5937,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0472-G"
+        "container_id": "KA-0472-G",
+        "flood_level": 3
       }
     },
     {
@@ -6634,7 +5952,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0473-W"
+        "container_id": "KA-0473-W",
+        "flood_level": 26
       }
     },
     {
@@ -6648,7 +5967,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0474-G"
+        "container_id": "KA-0474-G",
+        "flood_level": 34
       }
     },
     {
@@ -6662,7 +5982,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0475-B"
+        "container_id": "KA-0475-B",
+        "flood_level": 49
       }
     },
     {
@@ -6676,7 +5997,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0476-W"
+        "container_id": "KA-0476-W",
+        "flood_level": 43
       }
     },
     {
@@ -6690,7 +6012,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0477-G"
+        "container_id": "KA-0477-G",
+        "flood_level": 43
       }
     },
     {
@@ -6704,7 +6027,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0478-B"
+        "container_id": "KA-0478-B",
+        "flood_level": 27
       }
     },
     {
@@ -6718,7 +6042,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0479-W"
+        "container_id": "KA-0479-W",
+        "flood_level": 74
       }
     },
     {
@@ -6732,49 +6057,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0480-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9661148,
-          53.5672391
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0481-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9661148,
-          53.5672391
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0482-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9661148,
-          53.5672391
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0483-B"
+        "container_id": "KA-0480-G",
+        "flood_level": 80
       }
     },
     {
@@ -6788,7 +6072,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0484-W"
+        "container_id": "KA-0484-W",
+        "flood_level": 6
       }
     },
     {
@@ -6802,7 +6087,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0485-G"
+        "container_id": "KA-0485-G",
+        "flood_level": 83
       }
     },
     {
@@ -6816,7 +6102,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0486-W"
+        "container_id": "KA-0486-W",
+        "flood_level": 93
       }
     },
     {
@@ -6830,7 +6117,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0487-G"
+        "container_id": "KA-0487-G",
+        "flood_level": 20
       }
     },
     {
@@ -6844,7 +6132,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0488-B"
+        "container_id": "KA-0488-B",
+        "flood_level": 62
       }
     },
     {
@@ -6858,7 +6147,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0489-W"
+        "container_id": "KA-0489-W",
+        "flood_level": 100
       }
     },
     {
@@ -6872,7 +6162,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0490-G"
+        "container_id": "KA-0490-G",
+        "flood_level": 100
       }
     },
     {
@@ -6886,7 +6177,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0491-W"
+        "container_id": "KA-0491-W",
+        "flood_level": 85
       }
     },
     {
@@ -6900,7 +6192,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0492-G"
+        "container_id": "KA-0492-G",
+        "flood_level": 34
       }
     },
     {
@@ -6914,7 +6207,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0493-W"
+        "container_id": "KA-0493-W",
+        "flood_level": 100
       }
     },
     {
@@ -6928,7 +6222,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0494-G"
+        "container_id": "KA-0494-G",
+        "flood_level": 14
       }
     },
     {
@@ -6942,7 +6237,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0495-B"
+        "container_id": "KA-0495-B",
+        "flood_level": 43
       }
     },
     {
@@ -6956,7 +6252,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0496-W"
+        "container_id": "KA-0496-W",
+        "flood_level": 9
       }
     },
     {
@@ -6970,7 +6267,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0497-G"
+        "container_id": "KA-0497-G",
+        "flood_level": 89
       }
     },
     {
@@ -6984,119 +6282,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0498-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4454675,
-          52.5426675
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0499-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4454675,
-          52.5426675
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0500-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4454675,
-          52.5426675
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0501-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.7643079,
-          51.0670538
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0502-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.7643079,
-          51.0670538
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0503-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.7643079,
-          51.0670538
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0504-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.1832254,
-          48.8029886
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0505-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.1832254,
-          48.8029886
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0506-G"
+        "container_id": "KA-0498-B",
+        "flood_level": 94
       }
     },
     {
@@ -7110,7 +6297,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0507-W"
+        "container_id": "KA-0507-W",
+        "flood_level": 22
       }
     },
     {
@@ -7124,7 +6312,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0508-G"
+        "container_id": "KA-0508-G",
+        "flood_level": 76
       }
     },
     {
@@ -7138,49 +6327,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0509-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.7769319,
-          47.4719097
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0510-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.7769319,
-          47.4719097
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0511-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.7769319,
-          47.4719097
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0512-B"
+        "container_id": "KA-0509-B",
+        "flood_level": 89
       }
     },
     {
@@ -7194,7 +6342,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0513-W"
+        "container_id": "KA-0513-W",
+        "flood_level": 5
       }
     },
     {
@@ -7208,7 +6357,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0514-G"
+        "container_id": "KA-0514-G",
+        "flood_level": 22
       }
     },
     {
@@ -7222,7 +6372,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0515-B"
+        "container_id": "KA-0515-B",
+        "flood_level": 24
       }
     },
     {
@@ -7236,7 +6387,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0516-W"
+        "container_id": "KA-0516-W",
+        "flood_level": 16
       }
     },
     {
@@ -7250,7 +6402,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0517-G"
+        "container_id": "KA-0517-G",
+        "flood_level": 79
       }
     },
     {
@@ -7264,49 +6417,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0518-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.2091874,
-          48.838542
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0519-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.2091874,
-          48.838542
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0520-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.2091874,
-          48.838542
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0521-B"
+        "container_id": "KA-0518-B",
+        "flood_level": 47
       }
     },
     {
@@ -7320,7 +6432,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0522-W"
+        "container_id": "KA-0522-W",
+        "flood_level": 1
       }
     },
     {
@@ -7334,7 +6447,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0523-G"
+        "container_id": "KA-0523-G",
+        "flood_level": 24
       }
     },
     {
@@ -7348,7 +6462,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0524-W"
+        "container_id": "KA-0524-W",
+        "flood_level": 87
       }
     },
     {
@@ -7362,7 +6477,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0525-G"
+        "container_id": "KA-0525-G",
+        "flood_level": 10
       }
     },
     {
@@ -7376,7 +6492,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0526-W"
+        "container_id": "KA-0526-W",
+        "flood_level": 9
       }
     },
     {
@@ -7390,7 +6507,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0527-G"
+        "container_id": "KA-0527-G",
+        "flood_level": 50
       }
     },
     {
@@ -7404,7 +6522,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0528-B"
+        "container_id": "KA-0528-B",
+        "flood_level": 27
       }
     },
     {
@@ -7418,7 +6537,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0529-W"
+        "container_id": "KA-0529-W",
+        "flood_level": 18
       }
     },
     {
@@ -7432,7 +6552,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0530-G"
+        "container_id": "KA-0530-G",
+        "flood_level": 37
       }
     },
     {
@@ -7446,7 +6567,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0531-B"
+        "container_id": "KA-0531-B",
+        "flood_level": 21
       }
     },
     {
@@ -7460,7 +6582,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0532-W"
+        "container_id": "KA-0532-W",
+        "flood_level": 64
       }
     },
     {
@@ -7474,49 +6597,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0533-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.1549349,
-          48.8884845
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0534-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.1549349,
-          48.8884845
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0535-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.1549349,
-          48.8884845
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0536-B"
+        "container_id": "KA-0533-G",
+        "flood_level": 67
       }
     },
     {
@@ -7530,7 +6612,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0537-W"
+        "container_id": "KA-0537-W",
+        "flood_level": 90
       }
     },
     {
@@ -7544,7 +6627,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0538-G"
+        "container_id": "KA-0538-G",
+        "flood_level": 90
       }
     },
     {
@@ -7558,7 +6642,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0539-B"
+        "container_id": "KA-0539-B",
+        "flood_level": 89
       }
     },
     {
@@ -7572,7 +6657,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0540-W"
+        "container_id": "KA-0540-W",
+        "flood_level": 85
       }
     },
     {
@@ -7586,7 +6672,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0541-G"
+        "container_id": "KA-0541-G",
+        "flood_level": 6
       }
     },
     {
@@ -7600,7 +6687,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0542-B"
+        "container_id": "KA-0542-B",
+        "flood_level": 7
       }
     },
     {
@@ -7614,7 +6702,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0543-W"
+        "container_id": "KA-0543-W",
+        "flood_level": 17
       }
     },
     {
@@ -7628,7 +6717,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0544-G"
+        "container_id": "KA-0544-G",
+        "flood_level": 4
       }
     },
     {
@@ -7642,7 +6732,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0545-B"
+        "container_id": "KA-0545-B",
+        "flood_level": 99
       }
     },
     {
@@ -7656,7 +6747,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0546-W"
+        "container_id": "KA-0546-W",
+        "flood_level": 46
       }
     },
     {
@@ -7670,7 +6762,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0547-G"
+        "container_id": "KA-0547-G",
+        "flood_level": 66
       }
     },
     {
@@ -7684,7 +6777,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0548-W"
+        "container_id": "KA-0548-W",
+        "flood_level": 16
       }
     },
     {
@@ -7698,7 +6792,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0549-G"
+        "container_id": "KA-0549-G",
+        "flood_level": 86
       }
     },
     {
@@ -7712,7 +6807,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0550-B"
+        "container_id": "KA-0550-B",
+        "flood_level": 23
       }
     },
     {
@@ -7726,7 +6822,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0551-W"
+        "container_id": "KA-0551-W",
+        "flood_level": 79
       }
     },
     {
@@ -7740,7 +6837,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0552-G"
+        "container_id": "KA-0552-G",
+        "flood_level": 69
       }
     },
     {
@@ -7754,7 +6852,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0553-B"
+        "container_id": "KA-0553-B",
+        "flood_level": 74
       }
     },
     {
@@ -7768,7 +6867,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0554-W"
+        "container_id": "KA-0554-W",
+        "flood_level": 88
       }
     },
     {
@@ -7782,7 +6882,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0555-G"
+        "container_id": "KA-0555-G",
+        "flood_level": 40
       }
     },
     {
@@ -7796,7 +6897,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0556-B"
+        "container_id": "KA-0556-B",
+        "flood_level": 54
       }
     },
     {
@@ -7810,7 +6912,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0557-W"
+        "container_id": "KA-0557-W",
+        "flood_level": 67
       }
     },
     {
@@ -7824,7 +6927,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0558-G"
+        "container_id": "KA-0558-G",
+        "flood_level": 37
       }
     },
     {
@@ -7838,35 +6942,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0559-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.18788,
-          47.643127
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0560-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.18788,
-          47.643127
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0561-G"
+        "container_id": "KA-0559-B",
+        "flood_level": 86
       }
     },
     {
@@ -7880,7 +6957,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0562-W"
+        "container_id": "KA-0562-W",
+        "flood_level": 96
       }
     },
     {
@@ -7894,7 +6972,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0563-G"
+        "container_id": "KA-0563-G",
+        "flood_level": 62
       }
     },
     {
@@ -7908,7 +6987,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0564-B"
+        "container_id": "KA-0564-B",
+        "flood_level": 17
       }
     },
     {
@@ -7922,7 +7002,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0565-W"
+        "container_id": "KA-0565-W",
+        "flood_level": 59
       }
     },
     {
@@ -7936,7 +7017,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0566-G"
+        "container_id": "KA-0566-G",
+        "flood_level": 12
       }
     },
     {
@@ -7950,7 +7032,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0567-B"
+        "container_id": "KA-0567-B",
+        "flood_level": 79
       }
     },
     {
@@ -7964,7 +7047,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0568-W"
+        "container_id": "KA-0568-W",
+        "flood_level": 80
       }
     },
     {
@@ -7978,7 +7062,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0569-G"
+        "container_id": "KA-0569-G",
+        "flood_level": 43
       }
     },
     {
@@ -7992,7 +7077,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0570-B"
+        "container_id": "KA-0570-B",
+        "flood_level": 100
       }
     },
     {
@@ -8006,7 +7092,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0571-W"
+        "container_id": "KA-0571-W",
+        "flood_level": 26
       }
     },
     {
@@ -8020,7 +7107,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0572-G"
+        "container_id": "KA-0572-G",
+        "flood_level": 19
       }
     },
     {
@@ -8034,7 +7122,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0573-W"
+        "container_id": "KA-0573-W",
+        "flood_level": 48
       }
     },
     {
@@ -8048,7 +7137,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0574-G"
+        "container_id": "KA-0574-G",
+        "flood_level": 33
       }
     },
     {
@@ -8062,7 +7152,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0575-W"
+        "container_id": "KA-0575-W",
+        "flood_level": 29
       }
     },
     {
@@ -8076,7 +7167,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0576-G"
+        "container_id": "KA-0576-G",
+        "flood_level": 42
       }
     },
     {
@@ -8090,7 +7182,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0577-B"
+        "container_id": "KA-0577-B",
+        "flood_level": 52
       }
     },
     {
@@ -8104,7 +7197,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0578-W"
+        "container_id": "KA-0578-W",
+        "flood_level": 42
       }
     },
     {
@@ -8118,7 +7212,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0579-G"
+        "container_id": "KA-0579-G",
+        "flood_level": 92
       }
     },
     {
@@ -8132,7 +7227,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0580-B"
+        "container_id": "KA-0580-B",
+        "flood_level": 57
       }
     },
     {
@@ -8146,7 +7242,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0581-W"
+        "container_id": "KA-0581-W",
+        "flood_level": 60
       }
     },
     {
@@ -8160,7 +7257,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0582-G"
+        "container_id": "KA-0582-G",
+        "flood_level": 79
       }
     },
     {
@@ -8174,7 +7272,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0583-B"
+        "container_id": "KA-0583-B",
+        "flood_level": 80
       }
     },
     {
@@ -8188,7 +7287,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0584-W"
+        "container_id": "KA-0584-W",
+        "flood_level": 6
       }
     },
     {
@@ -8202,7 +7302,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0585-G"
+        "container_id": "KA-0585-G",
+        "flood_level": 99
       }
     },
     {
@@ -8216,7 +7317,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0586-B"
+        "container_id": "KA-0586-B",
+        "flood_level": 28
       }
     },
     {
@@ -8230,7 +7332,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0587-W"
+        "container_id": "KA-0587-W",
+        "flood_level": 69
       }
     },
     {
@@ -8244,49 +7347,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0588-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.538556,
-          47.3717284
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0589-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.538556,
-          47.3717284
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0590-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.538556,
-          47.3717284
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0591-B"
+        "container_id": "KA-0588-G",
+        "flood_level": 9
       }
     },
     {
@@ -8300,7 +7362,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0592-W"
+        "container_id": "KA-0592-W",
+        "flood_level": 49
       }
     },
     {
@@ -8314,7 +7377,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0593-G"
+        "container_id": "KA-0593-G",
+        "flood_level": 60
       }
     },
     {
@@ -8328,7 +7392,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0594-B"
+        "container_id": "KA-0594-B",
+        "flood_level": 62
       }
     },
     {
@@ -8342,7 +7407,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0595-W"
+        "container_id": "KA-0595-W",
+        "flood_level": 81
       }
     },
     {
@@ -8356,7 +7422,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0596-G"
+        "container_id": "KA-0596-G",
+        "flood_level": 84
       }
     },
     {
@@ -8370,7 +7437,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0597-B"
+        "container_id": "KA-0597-B",
+        "flood_level": 64
       }
     },
     {
@@ -8384,7 +7452,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0598-W"
+        "container_id": "KA-0598-W",
+        "flood_level": 74
       }
     },
     {
@@ -8398,7 +7467,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0599-G"
+        "container_id": "KA-0599-G",
+        "flood_level": 30
       }
     },
     {
@@ -8412,7 +7482,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0600-B"
+        "container_id": "KA-0600-B",
+        "flood_level": 6
       }
     },
     {
@@ -8426,7 +7497,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0601-W"
+        "container_id": "KA-0601-W",
+        "flood_level": 13
       }
     },
     {
@@ -8440,7 +7512,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0602-G"
+        "container_id": "KA-0602-G",
+        "flood_level": 87
       }
     },
     {
@@ -8454,7 +7527,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0603-B"
+        "container_id": "KA-0603-B",
+        "flood_level": 43
       }
     },
     {
@@ -8468,7 +7542,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0604-W"
+        "container_id": "KA-0604-W",
+        "flood_level": 33
       }
     },
     {
@@ -8482,7 +7557,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0605-G"
+        "container_id": "KA-0605-G",
+        "flood_level": 29
       }
     },
     {
@@ -8496,7 +7572,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0606-W"
+        "container_id": "KA-0606-W",
+        "flood_level": 42
       }
     },
     {
@@ -8510,7 +7587,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0607-G"
+        "container_id": "KA-0607-G",
+        "flood_level": 4
       }
     },
     {
@@ -8524,7 +7602,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0608-W"
+        "container_id": "KA-0608-W",
+        "flood_level": 61
       }
     },
     {
@@ -8538,7 +7617,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0609-G"
+        "container_id": "KA-0609-G",
+        "flood_level": 73
       }
     },
     {
@@ -8552,7 +7632,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0610-W"
+        "container_id": "KA-0610-W",
+        "flood_level": 69
       }
     },
     {
@@ -8566,7 +7647,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0611-G"
+        "container_id": "KA-0611-G",
+        "flood_level": 56
       }
     },
     {
@@ -8580,7 +7662,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0612-W"
+        "container_id": "KA-0612-W",
+        "flood_level": 63
       }
     },
     {
@@ -8594,7 +7677,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0613-G"
+        "container_id": "KA-0613-G",
+        "flood_level": 86
       }
     },
     {
@@ -8608,7 +7692,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0614-W"
+        "container_id": "KA-0614-W",
+        "flood_level": 93
       }
     },
     {
@@ -8622,7 +7707,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0615-G"
+        "container_id": "KA-0615-G",
+        "flood_level": 69
       }
     },
     {
@@ -8636,7 +7722,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0616-B"
+        "container_id": "KA-0616-B",
+        "flood_level": 25
       }
     },
     {
@@ -8650,7 +7737,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0617-W"
+        "container_id": "KA-0617-W",
+        "flood_level": 66
       }
     },
     {
@@ -8664,7 +7752,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0618-G"
+        "container_id": "KA-0618-G",
+        "flood_level": 18
       }
     },
     {
@@ -8678,91 +7767,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0619-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.6464704,
-          48.1079012
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0620-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.6464704,
-          48.1079012
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0621-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.6464704,
-          48.1079012
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0622-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.7563103,
-          52.41987289999999
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0623-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.7563103,
-          52.41987289999999
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0624-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.7563103,
-          52.41987289999999
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0625-B"
+        "container_id": "KA-0619-B",
+        "flood_level": 22
       }
     },
     {
@@ -8776,7 +7782,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0626-W"
+        "container_id": "KA-0626-W",
+        "flood_level": 43
       }
     },
     {
@@ -8790,7 +7797,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0627-G"
+        "container_id": "KA-0627-G",
+        "flood_level": 13
       }
     },
     {
@@ -8804,7 +7812,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0628-B"
+        "container_id": "KA-0628-B",
+        "flood_level": 26
       }
     },
     {
@@ -8818,7 +7827,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0629-W"
+        "container_id": "KA-0629-W",
+        "flood_level": 55
       }
     },
     {
@@ -8832,7 +7842,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0630-G"
+        "container_id": "KA-0630-G",
+        "flood_level": 48
       }
     },
     {
@@ -8846,77 +7857,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0631-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.8710909,
-          53.070777
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0632-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.8710909,
-          53.070777
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0633-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.8710909,
-          53.070777
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0634-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.8710909,
-          53.070777
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0635-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.8710909,
-          53.070777
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0636-G"
+        "container_id": "KA-0631-B",
+        "flood_level": 75
       }
     },
     {
@@ -8930,7 +7872,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0637-W"
+        "container_id": "KA-0637-W",
+        "flood_level": 46
       }
     },
     {
@@ -8944,7 +7887,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0638-G"
+        "container_id": "KA-0638-G",
+        "flood_level": 12
       }
     },
     {
@@ -8958,7 +7902,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0639-B"
+        "container_id": "KA-0639-B",
+        "flood_level": 79
       }
     },
     {
@@ -8972,7 +7917,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0640-W"
+        "container_id": "KA-0640-W",
+        "flood_level": 19
       }
     },
     {
@@ -8986,7 +7932,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0641-G"
+        "container_id": "KA-0641-G",
+        "flood_level": 6
       }
     },
     {
@@ -9000,189 +7947,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0642-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.375564,
-          52.5444147
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0643-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.375564,
-          52.5444147
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0644-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.375564,
-          52.5444147
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0645-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.1382486,
-          49.4012436
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0646-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.1382486,
-          49.4012436
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0647-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.1382486,
-          49.4012436
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0648-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.8315677,
-          51.2156486
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0649-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.8315677,
-          51.2156486
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0650-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3187752,
-          52.4305124
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0651-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3187752,
-          52.4305124
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0652-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.5863678,
-          49.1591384
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0653-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.5863678,
-          49.1591384
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0654-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.5863678,
-          49.1591384
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0655-B"
+        "container_id": "KA-0642-B",
+        "flood_level": 88
       }
     },
     {
@@ -9196,7 +7962,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0656-W"
+        "container_id": "KA-0656-W",
+        "flood_level": 17
       }
     },
     {
@@ -9210,7 +7977,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0657-G"
+        "container_id": "KA-0657-G",
+        "flood_level": 91
       }
     },
     {
@@ -9224,35 +7992,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0658-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3376465,
-          52.4579198
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0659-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3376465,
-          52.4579198
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0660-G"
+        "container_id": "KA-0658-B",
+        "flood_level": 3
       }
     },
     {
@@ -9266,7 +8007,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0661-W"
+        "container_id": "KA-0661-W",
+        "flood_level": 48
       }
     },
     {
@@ -9280,7 +8022,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0662-G"
+        "container_id": "KA-0662-G",
+        "flood_level": 53
       }
     },
     {
@@ -9294,7 +8037,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0663-B"
+        "container_id": "KA-0663-B",
+        "flood_level": 57
       }
     },
     {
@@ -9308,7 +8052,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0664-W"
+        "container_id": "KA-0664-W",
+        "flood_level": 48
       }
     },
     {
@@ -9322,7 +8067,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0665-G"
+        "container_id": "KA-0665-G",
+        "flood_level": 33
       }
     },
     {
@@ -9336,7 +8082,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0666-B"
+        "container_id": "KA-0666-B",
+        "flood_level": 3
       }
     },
     {
@@ -9350,7 +8097,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0667-W"
+        "container_id": "KA-0667-W",
+        "flood_level": 53
       }
     },
     {
@@ -9364,7 +8112,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0668-G"
+        "container_id": "KA-0668-G",
+        "flood_level": 72
       }
     },
     {
@@ -9378,7 +8127,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0669-B"
+        "container_id": "KA-0669-B",
+        "flood_level": 72
       }
     },
     {
@@ -9392,7 +8142,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0670-W"
+        "container_id": "KA-0670-W",
+        "flood_level": 16
       }
     },
     {
@@ -9406,7 +8157,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0671-G"
+        "container_id": "KA-0671-G",
+        "flood_level": 6
       }
     },
     {
@@ -9420,49 +8172,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0672-B"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.6472716,
-          49.7588931
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0673-W"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.6472716,
-          49.7588931
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0674-G"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.6472716,
-          49.7588931
-        ]
-      },
-      "properties": {
-        "color": "Brown",
-        "container_id": "KA-0675-B"
+        "container_id": "KA-0672-B",
+        "flood_level": 87
       }
     },
     {
@@ -9476,7 +8187,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0676-W"
+        "container_id": "KA-0676-W",
+        "flood_level": 46
       }
     },
     {
@@ -9490,7 +8202,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0677-G"
+        "container_id": "KA-0677-G",
+        "flood_level": 30
       }
     },
     {
@@ -9504,7 +8217,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0678-B"
+        "container_id": "KA-0678-B",
+        "flood_level": 13
       }
     },
     {
@@ -9518,7 +8232,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0679-W"
+        "container_id": "KA-0679-W",
+        "flood_level": 36
       }
     },
     {
@@ -9532,7 +8247,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0680-G"
+        "container_id": "KA-0680-G",
+        "flood_level": 58
       }
     },
     {
@@ -9546,7 +8262,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0681-B"
+        "container_id": "KA-0681-B",
+        "flood_level": 52
       }
     },
     {
@@ -9560,7 +8277,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0682-W"
+        "container_id": "KA-0682-W",
+        "flood_level": 55
       }
     },
     {
@@ -9574,7 +8292,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0683-G"
+        "container_id": "KA-0683-G",
+        "flood_level": 68
       }
     },
     {
@@ -9588,7 +8307,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0684-W"
+        "container_id": "KA-0684-W",
+        "flood_level": 39
       }
     },
     {
@@ -9602,7 +8322,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0685-G"
+        "container_id": "KA-0685-G",
+        "flood_level": 76
       }
     },
     {
@@ -9616,7 +8337,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0686-W"
+        "container_id": "KA-0686-W",
+        "flood_level": 96
       }
     },
     {
@@ -9630,7 +8352,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0687-G"
+        "container_id": "KA-0687-G",
+        "flood_level": 72
       }
     },
     {
@@ -9644,7 +8367,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0688-W"
+        "container_id": "KA-0688-W",
+        "flood_level": 13
       }
     },
     {
@@ -9658,7 +8382,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0689-G"
+        "container_id": "KA-0689-G",
+        "flood_level": 79
       }
     },
     {
@@ -9672,7 +8397,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0690-B"
+        "container_id": "KA-0690-B",
+        "flood_level": 35
       }
     },
     {
@@ -9686,7 +8412,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0691-W"
+        "container_id": "KA-0691-W",
+        "flood_level": 95
       }
     },
     {
@@ -9700,7 +8427,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0692-G"
+        "container_id": "KA-0692-G",
+        "flood_level": 25
       }
     },
     {
@@ -9714,7 +8442,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0693-B"
+        "container_id": "KA-0693-B",
+        "flood_level": 38
       }
     },
     {
@@ -9728,7 +8457,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0694-W"
+        "container_id": "KA-0694-W",
+        "flood_level": 82
       }
     },
     {
@@ -9742,7 +8472,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0695-G"
+        "container_id": "KA-0695-G",
+        "flood_level": 22
       }
     },
     {
@@ -9756,7 +8487,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0696-B"
+        "container_id": "KA-0696-B",
+        "flood_level": 38
       }
     },
     {
@@ -9770,7 +8502,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0697-W"
+        "container_id": "KA-0697-W",
+        "flood_level": 6
       }
     },
     {
@@ -9784,7 +8517,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0698-G"
+        "container_id": "KA-0698-G",
+        "flood_level": 43
       }
     },
     {
@@ -9798,7 +8532,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0699-B"
+        "container_id": "KA-0699-B",
+        "flood_level": 16
       }
     },
     {
@@ -9812,7 +8547,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0700-W"
+        "container_id": "KA-0700-W",
+        "flood_level": 65
       }
     },
     {
@@ -9826,7 +8562,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0701-G"
+        "container_id": "KA-0701-G",
+        "flood_level": 36
       }
     },
     {
@@ -9840,7 +8577,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0702-B"
+        "container_id": "KA-0702-B",
+        "flood_level": 46
       }
     },
     {
@@ -9854,7 +8592,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0703-W"
+        "container_id": "KA-0703-W",
+        "flood_level": 12
       }
     },
     {
@@ -9868,7 +8607,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0704-G"
+        "container_id": "KA-0704-G",
+        "flood_level": 16
       }
     },
     {
@@ -9882,7 +8622,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0705-W"
+        "container_id": "KA-0705-W",
+        "flood_level": 94
       }
     },
     {
@@ -9896,7 +8637,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0706-G"
+        "container_id": "KA-0706-G",
+        "flood_level": 61
       }
     },
     {
@@ -9910,7 +8652,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0707-B"
+        "container_id": "KA-0707-B",
+        "flood_level": 62
       }
     },
     {
@@ -9924,7 +8667,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0708-W"
+        "container_id": "KA-0708-W",
+        "flood_level": 2
       }
     },
     {
@@ -9938,7 +8682,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0709-G"
+        "container_id": "KA-0709-G",
+        "flood_level": 71
       }
     },
     {
@@ -9952,7 +8697,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0710-B"
+        "container_id": "KA-0710-B",
+        "flood_level": 11
       }
     },
     {
@@ -9966,7 +8712,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0711-W"
+        "container_id": "KA-0711-W",
+        "flood_level": 76
       }
     },
     {
@@ -9980,7 +8727,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0712-G"
+        "container_id": "KA-0712-G",
+        "flood_level": 5
       }
     },
     {
@@ -9994,7 +8742,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0713-B"
+        "container_id": "KA-0713-B",
+        "flood_level": 45
       }
     },
     {
@@ -10008,7 +8757,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0714-W"
+        "container_id": "KA-0714-W",
+        "flood_level": 88
       }
     },
     {
@@ -10022,7 +8772,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0715-G"
+        "container_id": "KA-0715-G",
+        "flood_level": 28
       }
     },
     {
@@ -10036,7 +8787,8 @@
       },
       "properties": {
         "color": "Brown",
-        "container_id": "KA-0716-B"
+        "container_id": "KA-0716-B",
+        "flood_level": 45
       }
     },
     {
@@ -10050,7 +8802,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0717-W"
+        "container_id": "KA-0717-W",
+        "flood_level": 95
       }
     },
     {
@@ -10064,7 +8817,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0718-G"
+        "container_id": "KA-0718-G",
+        "flood_level": 74
       }
     },
     {
@@ -10078,7 +8832,8 @@
       },
       "properties": {
         "color": "White",
-        "container_id": "KA-0719-W"
+        "container_id": "KA-0719-W",
+        "flood_level": 41
       }
     },
     {
@@ -10092,7 +8847,8 @@
       },
       "properties": {
         "color": "Green",
-        "container_id": "KA-0720-G"
+        "container_id": "KA-0720-G",
+        "flood_level": 70
       }
     }
   ]
