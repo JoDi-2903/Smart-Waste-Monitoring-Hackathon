@@ -243,7 +243,7 @@
 /** @format */
 
 import React, { useRef, useState, useEffect, useMemo } from "react";
-import { View, Image, StyleSheet, Text } from "react-native";
+import { View, Image, StyleSheet, Text, ScrollView } from "react-native";
 import MapView, { Marker } from "react-native-maps";
 import BottomSheet from "@gorhom/bottom-sheet";
 import BinSheetContent from "@/components/BinSheetContent";
@@ -252,6 +252,8 @@ import * as Location from "expo-location";
 import haversine from "haversine-distance";
 import { Bin } from "@/utils/bin";
 import colors from "@/utils/colors";
+import { GestureHandlerRootView } from "react-native-gesture-handler";
+import FloatingBinCard from "@/components/FloatingBinCard";
 
 export default function ExploreScreen() {
   const [selectedBin, setSelectedBin] = useState<Bin | null>(null);
@@ -309,55 +311,58 @@ export default function ExploreScreen() {
 
   return (
     <View style={{ flex: 1 }}>
-      <MapView
-        ref={mapRef}
-        style={{ flex: 1 }}
-        initialRegion={{
-          latitude: 49.0069,
-          longitude: 8.4034,
-          latitudeDelta: 0.05,
-          longitudeDelta: 0.05,
-        }}
-        onPress={() => {
-          setSelectedBin(null);
-          sheetRef.current?.close();
-        }}>
-        {userLocation && (
-          <Marker coordinate={userLocation} title='You' pinColor='blue' />
-        )}
-        {bins.map((bin) => (
-          <Marker
-            key={bin.id}
-            coordinate={{ latitude: bin.lat, longitude: bin.lng }}
-            onPress={() => {
-              console.log("Clicked bin:", bin);
-              setSelectedBin(bin);
-              sheetRef.current?.expand();
-              mapRef.current?.animateToRegion(
-                {
-                  latitude: bin.lat,
-                  longitude: bin.lng,
-                  latitudeDelta: 0.01,
-                  longitudeDelta: 0.01,
-                },
-                300
-              );
-            }}>
-            <Image
-              source={
-                bin.type === "glass"
-                  ? require("@/assets/images/bottle_green.webp")
-                  : bin.type === "clothes"
-                  ? require("@/assets/images/bottle_red.webp")
-                  : require("@/assets/images/bottle_yellow.webp")
-              }
-              style={{ width: 48, height: 48 }}
-            />
-          </Marker>
-        ))}
-      </MapView>
+      <View style={{ flex: 1 }}>
+        <MapView
+          ref={mapRef}
+          style={{ flex: 1 }}
+          initialRegion={{
+            latitude: 49.0069,
+            longitude: 8.4034,
+            latitudeDelta: 0.05,
+            longitudeDelta: 0.05,
+          }}
+          onPress={() => {
+            // setSelectedBin(null);
+            sheetRef.current?.close();
+          }}>
+          {userLocation && (
+            <Marker coordinate={userLocation} title='You' pinColor='blue' />
+          )}
+          {bins.map((bin) => (
+            <Marker
+              key={bin.id}
+              coordinate={{ latitude: bin.lat, longitude: bin.lng }}
+              onPress={() => {
+                console.log("Clicked bin:", bin);
+                setSelectedBin(bin);
+                sheetRef.current?.expand();
+                mapRef.current?.animateToRegion(
+                  {
+                    latitude: bin.lat,
+                    longitude: bin.lng,
+                    latitudeDelta: 0.01,
+                    longitudeDelta: 0.01,
+                  },
+                  300
+                );
+              }}>
+              <Image
+                source={
+                  bin.type === "glass"
+                    ? require("@/assets/images/bottle_green.webp")
+                    : bin.type === "clothes"
+                    ? require("@/assets/images/bottle_red.webp")
+                    : require("@/assets/images/bottle_yellow.webp")
+                }
+                style={{ width: 48, height: 48 }}
+              />
+            </Marker>
+          ))}
+        </MapView>
+      </View>
 
-      <View style={StyleSheet.absoluteFillObject} pointerEvents='box-none'>
+      {/* <View style={StyleSheet.absoluteFillObject} pointerEvents='box-none'>
+        {console.log("Selected bin:", selectedBin)}
         <BottomSheet
           ref={sheetRef}
           snapPoints={snapPoints}
@@ -379,8 +384,17 @@ export default function ExploreScreen() {
               </Text>
             )}
           </View>
-        </BottomSheet>
-      </View>
+        </BottomSheet> 
+      </View>*/}
+      {selectedBin && (
+        <FloatingBinCard
+          bin={selectedBin}
+          distance={getDistanceFromUser(selectedBin)}
+          onReport={() => {
+            // trigger photo upload or other logic
+          }}
+        />
+      )}
     </View>
   );
 }
