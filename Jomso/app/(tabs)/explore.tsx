@@ -15,6 +15,8 @@ import { Bin } from "@/utils/bin";
 import { ScrollView } from "react-native-gesture-handler";
 import colors from "@/utils/colors";
 import FloatingBinCard from "@/components/FloatingBinCard";
+import { router } from "expo-router";
+import ReportBinCamera from "@/components/ReportBinCamera";
 
 export default function ExploreScreen() {
   const [selectedBin, setSelectedBin] = useState<Bin | null>(null);
@@ -27,6 +29,7 @@ export default function ExploreScreen() {
   const sheetRef = useRef<BottomSheet>(null);
   const snapPoints = useMemo(() => ["30%", "60%", "70%"], []);
   const mapRef = useRef<MapView>(null);
+  const [showCamera, setShowCamera] = useState(false);
 
   useEffect(() => {
     (async () => {
@@ -111,7 +114,6 @@ export default function ExploreScreen() {
           />
         </View>
       )}
-
       <MapView
         ref={mapRef}
         style={{ flex: 1 }}
@@ -129,10 +131,6 @@ export default function ExploreScreen() {
           <Marker
             key={bin.id}
             coordinate={{ latitude: bin.lat, longitude: bin.lng }}
-            // onPress={() => {
-            //   setSelectedBin(bin);
-            //   sheetRef.current?.expand();
-            //   console.log("Sheet ref:", sheetRef.current);
             onPress={(event) => {
               setSelectedBin(bin);
               console.log("Clicked bin:", bin);
@@ -155,9 +153,9 @@ export default function ExploreScreen() {
             }}>
             <Image
               source={
-                bin.type === "glass"
+                bin.type === "green"
                   ? require("@/assets/images/bottle_green.webp")
-                  : bin.type === "clothes"
+                  : bin.type === "white"
                   ? require("@/assets/images/bottle_red.webp")
                   : require("@/assets/images/bottle_yellow.webp")
               }
@@ -172,9 +170,19 @@ export default function ExploreScreen() {
           distance={getDistanceFromUser(selectedBin)}
           onReport={() => {
             // trigger photo upload or other logic
+            // router.push("/reportBinCamera");
+            setShowCamera(true);
           }}
           onClose={() => {
             setSelectedBin(null);
+          }}
+        />
+      )}
+      {showCamera && (
+        <ReportBinCamera
+          onClose={() => {
+            setShowCamera(false);
+            // alert("Thank you for helping keep your city clean!");
           }}
         />
       )}

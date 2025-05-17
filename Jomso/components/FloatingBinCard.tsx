@@ -25,10 +25,24 @@ export default function FloatingBinCard({
         <Feather name='x' size={20} color='#444' />
       </TouchableOpacity>
       <Text style={styles.title}>{bin.address}</Text>
+      <Text style={styles.distanceText}>🧭 {distance} from your location</Text>
 
       <Text style={styles.label}>Fill level</Text>
       <View style={styles.fillBarBackground}>
-        <View style={[styles.fillBar, { width: `${bin.fill}%` }]} />
+        <View
+          style={[
+            styles.fillBar,
+            {
+              width: `${bin.fill}%`,
+              backgroundColor:
+                bin.fill >= 90
+                  ? colors.error
+                  : bin.fill >= 70
+                  ? colors.active
+                  : colors.accent,
+            },
+          ]}
+        />
       </View>
       <Text style={styles.value}>{bin.fill}%</Text>
 
@@ -44,7 +58,19 @@ export default function FloatingBinCard({
         <Text style={styles.value}>{bin.size}</Text>
       </View>
 
-      <TouchableOpacity onPress={onReport} style={styles.reportButton}>
+      <TouchableOpacity
+        onPress={onReport}
+        style={[
+          styles.reportButton,
+          {
+            backgroundColor:
+              bin.fill >= 90
+                ? colors.error
+                : bin.fill >= 70
+                ? colors.active
+                : colors.accent,
+          },
+        ]}>
         <Text style={styles.reportText}>Report</Text>
       </TouchableOpacity>
     </View>
@@ -56,12 +82,13 @@ const styles = StyleSheet.create({
     position: "absolute",
     bottom: 5,
     marginBottom: -10,
-    // right: 16,
-    // left: 16,
     width: "100%",
     maxWidth: "100%",
     backgroundColor: colors.highlight,
-    borderRadius: 20,
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    borderBottomLeftRadius: 0,
+    borderBottomRightRadius: 0,
     padding: 20,
     elevation: 8,
     shadowColor: "#000",
@@ -115,7 +142,6 @@ const styles = StyleSheet.create({
   },
   reportButton: {
     marginTop: 12,
-    backgroundColor: colors.primary,
     paddingVertical: 12,
     borderRadius: 10,
     alignItems: "center",
@@ -123,5 +149,10 @@ const styles = StyleSheet.create({
   reportText: {
     fontWeight: "600",
     color: "#111827",
+  },
+  distanceText: {
+    fontSize: 14,
+    color: "#444",
+    marginBottom: 8,
   },
 });
