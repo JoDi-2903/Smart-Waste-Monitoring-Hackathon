@@ -1,3 +1,4 @@
+import React, { useState, useEffect } from 'react';
 import { Image } from 'expo-image';
 import { Platform, StyleSheet } from 'react-native';
 
@@ -7,6 +8,29 @@ import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 
 export default function HomeScreen() {
+  const [element0, setElement0] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    fetch('https://api.restful-api.dev/objects')
+      .then((res) => {
+        if (!res.ok) {
+          throw new Error(`HTTP ${res.status}`);
+        }
+        return res.json();
+      })
+      .then((data) => {
+        if (Array.isArray(data) && data.length > 0) {
+          setElement0(data[0]);
+        } else {
+          setError('No data received');
+        }
+      })
+      .catch((err) => setError(err.message))
+      .finally(() => setLoading(false));
+  }, []);
+
   return (
     <ParallaxScrollView
       headerBackgroundColor={{ light: '#A1CEDC', dark: '#1D3D47' }}
@@ -51,6 +75,17 @@ export default function HomeScreen() {
           <ThemedText type="defaultSemiBold">app-example</ThemedText>.
         </ThemedText>
       </ThemedView>
+      {/* REST-Test-View */}
+      <ThemedView style={styles.testContainer}>
+        <ThemedText type="subtitle">API Test: Element 0</ThemedText>
+        {loading && <ThemedText>Loading...</ThemedText>}
+        {error && <ThemedText style={{ color: 'red' }}>{error}</ThemedText>}
+        {element0 && (
+          <ThemedText style={styles.jsonText}>
+            {JSON.stringify(element0, null, 2)}
+          </ThemedText>
+        )}
+      </ThemedView>
     </ParallaxScrollView>
   );
 }
@@ -64,6 +99,18 @@ const styles = StyleSheet.create({
   stepContainer: {
     gap: 8,
     marginBottom: 8,
+  },
+  testContainer: {
+    gap: 8,
+    margin: 16,
+    padding: 12,
+    borderWidth: 1,
+    borderColor: '#888',
+    borderRadius: 8,
+  },
+  jsonText: {
+    fontFamily: 'Courier',
+    fontSize: 14,
   },
   reactLogo: {
     height: 178,
