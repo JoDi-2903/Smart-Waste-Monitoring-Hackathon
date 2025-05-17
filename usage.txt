@@ -1,0 +1,2 @@
+in terminal write: python3 -m http.server 8000
+the go to: http://localhost:8000/index.html

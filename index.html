@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Glass Bin Route Map</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+  <style>
+    #map { height: 100vh; width: 100vw; }
+  </style>
+</head>
+<body>
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+const ORS_API_KEY = '5b3ce3597851110001cf6248985e909624ed4b7ea29c214af3863a7a'; // ← Replace with your key
+
+const map = L.map('map').setView([49.00687, 8.40343], 13);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: 'Map © OpenStreetMap contributors'
+}).addTo(map);
+
+// To keep count of how many markers share the same coords
+const coordCounts = {};
+
+// Add tiny jitter offset for overlapping markers
+function jitterCoords(lat, lng) {
+  const key = `${lat.toFixed(6)}_${lng.toFixed(6)}`;
+  coordCounts[key] = (coordCounts[key] || 0) + 1;
+  const count = coordCounts[key];
+  if (count > 1) {
+    // offset about ~3 meters per duplicate
+    const offset = 0.00003 * (count - 1);
+    return [lat + offset, lng + offset];
+  }
+  return [lat, lng];
+}
+
+function getColorStyle(color) {
+  const c = color.toLowerCase();
+  if (c === 'white') {
+    return { radius: 7, fillColor: 'gray', color: 'black', weight: 2, opacity: 1, fillOpacity: 0.8 };
+  } else if (c === 'green') {
+    return { radius: 7, fillColor: 'green', color: 'black', weight: 2, opacity: 1, fillOpacity: 0.8 };
+  } else if (c === 'brown') {
+    return { radius: 7, fillColor: 'brown', color: 'black', weight: 2, opacity: 1, fillOpacity: 0.8 };
+  } else {
+    return { radius: 7, fillColor: 'blue', color: 'black', weight: 2, opacity: 1, fillOpacity: 0.8 };
+  }
+}
+
+// Load bins
+fetch('bins.geojson')
+  .then(res => res.json())
+  .then(geojson => {
+    geojson.features.forEach((feature, i) => {
+      const coords = feature.geometry.coordinates;
+      const origColor = feature.properties.color || 'gray';
+      console.log(`Feature ${i}: original color = "${origColor}"`);
+
+      const style = getColorStyle(origColor);
+      const [lat, lng] = jitterCoords(coords[1], coords[0]);
+
+      L.circleMarker([lat, lng], style)
+        .addTo(map)
+        .bindPopup(`Container ID: ${feature.properties.container_id || 'N/A'}`);
+    });
+
+    // Get user's current location
+    navigator.geolocation.getCurrentPosition(pos => {
+      const userCoord = [pos.coords.longitude, pos.coords.latitude];
+      L.marker([userCoord[1], userCoord[0]], { title: 'Your Location' })
+        .addTo(map)
+        .bindPopup('Your Location')
+        .openPopup();
+    });
+  })
+  .catch(err => console.error('Failed to load geojson:', err));
+</script>
+</body>
+</html>

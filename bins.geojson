@@ -1,0 +1,10099 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.462630299999999,
+          48.9940931
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0000-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.462630299999999,
+          48.9940931
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0001-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.462630299999999,
+          48.9940931
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0002-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.464153,
+          48.9920298
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0003-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.464153,
+          48.9920298
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0004-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.464153,
+          48.9920298
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0005-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4577943,
+          48.9960455
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0006-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4577943,
+          48.9960455
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0007-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4577943,
+          48.9960455
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0008-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.459190399999999,
+          48.9942907
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0009-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.459190399999999,
+          48.9942907
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0010-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.452998,
+          48.9948406
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0011-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.452998,
+          48.9948406
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0012-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4516034,
+          48.9933576
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0013-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4516034,
+          48.9933576
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0014-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.455669499999999,
+          48.9915885
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0015-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.455669499999999,
+          48.9915885
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0016-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.455669499999999,
+          48.9915885
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0017-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.459064099999999,
+          48.99199549999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0018-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.459064099999999,
+          48.99199549999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0019-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.459064099999999,
+          48.99199549999999
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0020-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.454465599999999,
+          48.99641520000001
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0021-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.454465599999999,
+          48.99641520000001
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0022-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4510604,
+          48.9919953
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0023-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4510604,
+          48.9919953
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0024-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8764206,
+          48.5784603
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0025-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8764206,
+          48.5784603
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0026-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8764206,
+          48.5784603
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0027-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4424832,
+          48.9920805
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0028-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4424832,
+          48.9920805
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0029-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4424832,
+          48.9920805
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0030-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.452009,
+          48.9952341
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0031-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.452009,
+          48.9952341
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0032-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.38866,
+          48.9916101
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0033-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.38866,
+          48.9916101
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0034-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.38866,
+          48.9916101
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0035-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3933353,
+          48.9926936
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0036-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3933353,
+          48.9926936
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0037-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3772414,
+          52.514014
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0038-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3772414,
+          52.514014
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0039-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3902589,
+          48.99481460000001
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0040-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3902589,
+          48.99481460000001
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0041-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.385787,
+          48.993954
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0042-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.385787,
+          48.993954
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0043-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4207956,
+          52.5597139
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0044-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4207956,
+          52.5597139
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0045-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4663227,
+          48.9728797
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0046-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4663227,
+          48.9728797
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0047-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.464320599999999,
+          48.9742292
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0048-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.464320599999999,
+          48.9742292
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0049-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.464320599999999,
+          48.9742292
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0050-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3791241,
+          48.9914441
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0051-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3791241,
+          48.9914441
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0052-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3769407,
+          48.9888525
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0053-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3769407,
+          48.9888525
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0054-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3769407,
+          48.9888525
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0055-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3798711,
+          48.9869092
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0056-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3798711,
+          48.9869092
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0057-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3798711,
+          48.9869092
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0058-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4012346,
+          48.9864667
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0059-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4012346,
+          48.9864667
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0060-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4012346,
+          48.9864667
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0061-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3979255,
+          48.9843154
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0062-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3979255,
+          48.9843154
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0063-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3256104,
+          49.0077851
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0064-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3256104,
+          49.0077851
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0065-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3334872,
+          49.009054
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0066-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3334872,
+          49.009054
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0067-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3334872,
+          49.009054
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0068-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.326907199999999,
+          49.0062905
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0069-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.326907199999999,
+          49.0062905
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0070-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3321192,
+          49.0050835
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0071-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3321192,
+          49.0050835
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0072-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.344040399999999,
+          49.0150868
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0073-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.344040399999999,
+          49.0150868
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0074-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.344040399999999,
+          49.0150868
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0075-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.485056499999999,
+          49.0116714
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0076-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.485056499999999,
+          49.0116714
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0077-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.485056499999999,
+          49.0116714
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0078-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4779864,
+          49.0054724
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0079-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4779864,
+          49.0054724
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0080-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4779864,
+          49.0054724
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0081-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4612628,
+          48.99971
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0082-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4612628,
+          48.99971
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0083-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4612628,
+          48.99971
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0084-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.474264699999999,
+          49.0006969
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0085-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.474264699999999,
+          49.0006969
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0086-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.474264699999999,
+          49.0006969
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0087-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.468366399999999,
+          48.9993208
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0088-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.468366399999999,
+          48.9993208
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0089-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.468366399999999,
+          48.9993208
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0090-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4808931,
+          48.99612459999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0091-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4808931,
+          48.99612459999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0092-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4808931,
+          48.99612459999999
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0093-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4754905,
+          49.0022215
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0094-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4754905,
+          49.0022215
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0095-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4754905,
+          49.0022215
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0096-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3156347,
+          52.4634368
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0097-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3156347,
+          52.4634368
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0098-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3156347,
+          52.4634368
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0099-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.462630299999999,
+          48.9940931
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0100-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.462630299999999,
+          48.9940931
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0101-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.462630299999999,
+          48.9940931
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0102-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4885844,
+          48.991952
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0103-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4885844,
+          48.991952
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0104-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4885844,
+          48.991952
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0105-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4662261,
+          48.9984615
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0106-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4662261,
+          48.9984615
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0107-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4750818,
+          48.9975974
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0108-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4750818,
+          48.9975974
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0109-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4750818,
+          48.9975974
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0110-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4812488,
+          49.001099
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0111-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4812488,
+          49.001099
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0112-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4812488,
+          49.001099
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0113-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4673178,
+          49.0019315
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0114-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4673178,
+          49.0019315
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0115-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4673178,
+          49.0019315
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0116-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4689316,
+          49.0032992
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0117-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4689316,
+          49.0032992
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0118-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4689316,
+          49.0032992
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0119-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9174077,
+          53.5655652
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0120-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9174077,
+          53.5655652
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0121-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9174077,
+          53.5655652
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0122-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.213057,
+          48.814118
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0123-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.213057,
+          48.814118
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0124-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.213057,
+          48.814118
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0125-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4723812,
+          49.0034617
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0126-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4723812,
+          49.0034617
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0127-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4723812,
+          49.0034617
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0128-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.454813399999999,
+          48.9998143
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0129-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.454813399999999,
+          48.9998143
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0130-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.454813399999999,
+          48.9998143
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0131-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4718943,
+          48.986913
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0132-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4718943,
+          48.986913
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0133-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.476255199999999,
+          48.98836679999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0134-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.476255199999999,
+          48.98836679999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0135-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.476255199999999,
+          48.98836679999999
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0136-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4785939,
+          48.99322309999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0137-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4785939,
+          48.99322309999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0138-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4785939,
+          48.99322309999999
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0139-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3592787,
+          51.3373492
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0140-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3592787,
+          51.3373492
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0141-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4417148,
+          48.9982656
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0142-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4417148,
+          48.9982656
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0143-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4427205,
+          48.9927656
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0144-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4427205,
+          48.9927656
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0145-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4427205,
+          48.9927656
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0146-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4586117,
+          49.0037758
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0147-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4586117,
+          49.0037758
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0148-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4586117,
+          49.0037758
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0149-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3323203,
+          52.4800537
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0150-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3323203,
+          52.4800537
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0151-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3323203,
+          52.4800537
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0152-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4955736,
+          49.0053956
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0153-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4955736,
+          49.0053956
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0154-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4955736,
+          49.0053956
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0155-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4993494,
+          49.0174001
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0156-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4993494,
+          49.0174001
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0157-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5061008,
+          49.0077581
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0158-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5061008,
+          49.0077581
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0159-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5061008,
+          49.0077581
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0160-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5045787,
+          49.00723139999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0161-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5045787,
+          49.00723139999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0162-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5045787,
+          49.00723139999999
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0163-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5122216,
+          49.0068011
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0164-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5122216,
+          49.0068011
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0165-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5122216,
+          49.0068011
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0166-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5081169,
+          49.0066495
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0167-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5081169,
+          49.0066495
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0168-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5081169,
+          49.0066495
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0169-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4976178,
+          49.0125405
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0170-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4976178,
+          49.0125405
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0171-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4976178,
+          49.0125405
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0172-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4665555,
+          48.959183
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0173-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4665555,
+          48.959183
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0174-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4665555,
+          48.959183
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0175-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.465691099999999,
+          48.9560037
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0176-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.465691099999999,
+          48.9560037
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0177-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7047461,
+          50.1267338
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0178-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7047461,
+          50.1267338
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0179-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3541995,
+          52.4880854
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0180-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3541995,
+          52.4880854
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0181-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3541995,
+          52.4880854
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0182-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3590678,
+          48.9971514
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0183-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3590678,
+          48.9971514
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0184-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3545955,
+          49.0004652
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0185-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3545955,
+          49.0004652
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0186-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3603545,
+          49.0058088
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0187-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3603545,
+          49.0058088
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0188-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3603545,
+          49.0058088
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0189-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.35238,
+          49.0040767
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0190-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.35238,
+          49.0040767
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0191-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.35238,
+          49.0040767
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0192-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3542763,
+          48.9970898
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0193-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3542763,
+          48.9970898
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0194-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3542763,
+          48.9970898
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0195-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3507756,
+          48.9992078
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0196-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3507756,
+          48.9992078
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0197-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3507756,
+          48.9992078
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0198-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3521435,
+          48.9949674
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0199-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3521435,
+          48.9949674
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0200-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3444863,
+          48.9938472
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0201-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3444863,
+          48.9938472
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0202-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3596734,
+          48.9952911
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0203-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3596734,
+          48.9952911
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0204-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.461293,
+          49.0242822
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0205-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.461293,
+          49.0242822
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0206-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.461293,
+          49.0242822
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0207-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.451503599999999,
+          49.02536629999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0208-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.451503599999999,
+          49.02536629999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0209-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.451503599999999,
+          49.02536629999999
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0210-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4542484,
+          49.0323023
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0211-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4542484,
+          49.0323023
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0212-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4542484,
+          49.0323023
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0213-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3531961,
+          49.6469994
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0214-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3531961,
+          49.6469994
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0215-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3531961,
+          49.6469994
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0216-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4713645,
+          48.9756929
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0217-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4713645,
+          48.9756929
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0218-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4713645,
+          48.9756929
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0219-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.415040099999999,
+          49.0084406
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0220-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.415040099999999,
+          49.0084406
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0221-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.415040099999999,
+          49.0084406
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0222-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6485293,
+          48.0998173
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0223-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6485293,
+          48.0998173
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0224-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6485293,
+          48.0998173
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0225-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6569989,
+          51.6000389
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0226-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6569989,
+          51.6000389
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0227-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6569989,
+          51.6000389
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0228-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3946727,
+          49.00813650000001
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0229-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3946727,
+          49.00813650000001
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0230-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3946727,
+          49.00813650000001
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0231-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3895367,
+          49.0075305
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0232-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3895367,
+          49.0075305
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0233-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.395610099999999,
+          49.0131855
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0234-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.395610099999999,
+          49.0131855
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0235-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.395610099999999,
+          49.0131855
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0236-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3895367,
+          49.0075305
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0237-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3895367,
+          49.0075305
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0238-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3895367,
+          49.0075305
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0239-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3932548,
+          49.0115784
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0240-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3932548,
+          49.0115784
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0241-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3932548,
+          49.0115784
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0242-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3931227,
+          49.017636
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0243-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3931227,
+          49.017636
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0244-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3485402,
+          49.0370741
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0245-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3485402,
+          49.0370741
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0246-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2236397,
+          50.0799862
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0247-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2236397,
+          50.0799862
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0248-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3493623,
+          49.0312313
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0249-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3493623,
+          49.0312313
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0250-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3524017,
+          49.0378981
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0251-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3524017,
+          49.0378981
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0252-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3524017,
+          49.0378981
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0253-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3383903,
+          49.03373819999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0254-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3383903,
+          49.03373819999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0255-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3383903,
+          49.03373819999999
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0256-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3370602,
+          49.036808
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0257-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3370602,
+          49.036808
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0258-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3370602,
+          49.036808
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0259-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.345749699999999,
+          49.0248839
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0260-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.345749699999999,
+          49.0248839
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0261-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.345749699999999,
+          49.0248839
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0262-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3474535,
+          49.0331145
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0263-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3474535,
+          49.0331145
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0264-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3474535,
+          49.0331145
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0265-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.343045799999999,
+          49.029153
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0266-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.343045799999999,
+          49.029153
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0267-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.343045799999999,
+          49.029153
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0268-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3345282,
+          49.0311426
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0269-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3345282,
+          49.0311426
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0270-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3345282,
+          49.0311426
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0271-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3598534,
+          49.0176812
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0272-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3598534,
+          49.0176812
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0273-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3598534,
+          49.0176812
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0274-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5418683,
+          52.245543
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0275-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5418683,
+          52.245543
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0276-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3598534,
+          49.0176812
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0277-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3598534,
+          49.0176812
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0278-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3598534,
+          49.0176812
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0279-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4784158,
+          49.4867826
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0280-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4784158,
+          49.4867826
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0281-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2394036,
+          50.0778416
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0282-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2394036,
+          50.0778416
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0283-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2394036,
+          50.0778416
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0284-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3810123,
+          49.0155018
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0285-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3810123,
+          49.0155018
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0286-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3667068,
+          49.01629399999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0287-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3667068,
+          49.01629399999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0288-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3408687,
+          49.01838069999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0289-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3408687,
+          49.01838069999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0290-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3604871,
+          49.0147838
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0291-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3604871,
+          49.0147838
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0292-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3604871,
+          49.0147838
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0293-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3651971,
+          49.0143882
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0294-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3651971,
+          49.0143882
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0295-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3651971,
+          49.0143882
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0296-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3663927,
+          49.0142862
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0297-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3663927,
+          49.0142862
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0298-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3780844,
+          49.0080698
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0299-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3780844,
+          49.0080698
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0300-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.365162,
+          49.0101307
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0301-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.365162,
+          49.0101307
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0302-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3551557,
+          49.0118297
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0303-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3551557,
+          49.0118297
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0304-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5651246,
+          48.1364207
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0305-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5651246,
+          48.1364207
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0306-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5651246,
+          48.1364207
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0307-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3565165,
+          49.0097706
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0308-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3565165,
+          49.0097706
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0309-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3984974,
+          49.0556913
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0310-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3984974,
+          49.0556913
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0311-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3984974,
+          49.0556913
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0312-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3803245,
+          49.03598299999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0313-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3803245,
+          49.03598299999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0314-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3803245,
+          49.03598299999999
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0315-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3713115,
+          49.0536378
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0316-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3713115,
+          49.0536378
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0317-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3713115,
+          49.0536378
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0318-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0090831,
+          54.0459388
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0319-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0090831,
+          54.0459388
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0320-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0090831,
+          54.0459388
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0321-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4539683,
+          52.4404991
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0322-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4539683,
+          52.4404991
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0323-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4539683,
+          52.4404991
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0324-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3746692,
+          49.050065
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0325-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3746692,
+          49.050065
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0326-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3746692,
+          49.050065
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0327-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7761368,
+          50.9400578
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0328-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7761368,
+          50.9400578
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0329-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7761368,
+          50.9400578
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0330-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3869898,
+          49.0317712
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0331-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3869898,
+          49.0317712
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0332-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3869898,
+          49.0317712
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0333-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.397791,
+          49.05217349999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0334-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.397791,
+          49.05217349999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0335-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.397791,
+          49.05217349999999
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0336-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3930022,
+          49.0541264
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0337-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3930022,
+          49.0541264
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0338-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3912225,
+          49.0516268
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0339-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3912225,
+          49.0516268
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0340-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3912225,
+          49.0516268
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0341-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.391271399999999,
+          49.0345265
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0342-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.391271399999999,
+          49.0345265
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0343-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.391271399999999,
+          49.0345265
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0344-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3916883,
+          49.0492732
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0345-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3916883,
+          49.0492732
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0346-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3916883,
+          49.0492732
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0347-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.382894499999999,
+          49.0444341
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0348-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.382894499999999,
+          49.0444341
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0349-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.382894499999999,
+          49.0444341
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0350-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1546804,
+          51.7937394
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0351-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1546804,
+          51.7937394
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0352-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3982713,
+          51.5286967
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0353-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3982713,
+          51.5286967
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0354-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3982713,
+          51.5286967
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0355-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3992597,
+          49.04653589999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0356-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3992597,
+          49.04653589999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0357-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4488172,
+          51.1908309
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0358-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4488172,
+          51.1908309
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0359-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4488172,
+          51.1908309
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0360-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3850651,
+          49.0203153
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0361-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3850651,
+          49.0203153
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0362-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3850651,
+          49.0203153
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0363-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.379365199999999,
+          49.0155684
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0364-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.379365199999999,
+          49.0155684
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0365-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.379365199999999,
+          49.0155684
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0366-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7269252,
+          47.3459047
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0367-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7269252,
+          47.3459047
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0368-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7269252,
+          47.3459047
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0369-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3943033,
+          49.0262147
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0370-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3943033,
+          49.0262147
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0371-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3943033,
+          49.0262147
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0372-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3852935,
+          49.0173853
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0373-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3852935,
+          49.0173853
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0374-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3852935,
+          49.0173853
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0375-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3873601,
+          49.0248103
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0376-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3873601,
+          49.0248103
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0377-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3897084,
+          49.023916
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0378-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3897084,
+          49.023916
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0379-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3897084,
+          49.023916
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0380-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3897084,
+          49.023916
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0381-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3897084,
+          49.023916
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0382-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3897084,
+          49.023916
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0383-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3897084,
+          49.023916
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0384-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3897084,
+          49.023916
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0385-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3897084,
+          49.023916
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0386-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.363304099999999,
+          49.0212435
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0387-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.363304099999999,
+          49.0212435
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0388-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.363304099999999,
+          49.0212435
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0389-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3595011,
+          49.0282086
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0390-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3595011,
+          49.0282086
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0391-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3595011,
+          49.0282086
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0392-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3567081,
+          49.0281146
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0393-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3567081,
+          49.0281146
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0394-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3567081,
+          49.0281146
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0395-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3636989,
+          49.02742869999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0396-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3636989,
+          49.02742869999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0397-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3636989,
+          49.02742869999999
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0398-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3648489,
+          49.03293900000001
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0399-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3648489,
+          49.03293900000001
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0400-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3644829,
+          49.034901
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0401-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3644829,
+          49.034901
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0402-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3644829,
+          49.034901
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0403-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3706394,
+          49.0390051
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0404-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3706394,
+          49.0390051
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0405-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3729807,
+          49.0355113
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0406-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3729807,
+          49.0355113
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0407-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3729807,
+          49.0355113
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0408-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.357889499999999,
+          49.0242902
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0409-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.357889499999999,
+          49.0242902
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0410-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.357889499999999,
+          49.0242902
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0411-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3680535,
+          49.0237251
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0412-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3680535,
+          49.0237251
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0413-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.318491,
+          52.4727668
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0414-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.318491,
+          52.4727668
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0415-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.318491,
+          52.4727668
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0416-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3653671,
+          49.0273474
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0417-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3653671,
+          49.0273474
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0418-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3653671,
+          49.0273474
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0419-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.370427800000002,
+          49.0282844
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0420-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.370427800000002,
+          49.0282844
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0421-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.370427800000002,
+          49.0282844
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0422-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3705392,
+          49.02646379999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0423-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3705392,
+          49.02646379999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0424-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3705392,
+          49.02646379999999
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0425-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3616657,
+          48.9895308
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0426-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3616657,
+          48.9895308
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0427-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3616657,
+          48.9895308
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0428-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.435662,
+          52.5361099
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0429-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.435662,
+          52.5361099
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0430-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.435662,
+          52.5361099
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0431-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.435662,
+          52.5361099
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0432-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3581784,
+          48.9852457
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0433-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3581784,
+          48.9852457
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0434-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3581784,
+          48.9852457
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0435-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3718576,
+          48.9836171
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0436-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3718576,
+          48.9836171
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0437-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3718576,
+          48.9836171
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0438-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3651073,
+          48.9825973
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0439-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3651073,
+          48.9825973
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0440-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3651073,
+          48.9825973
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0441-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3637763,
+          48.9890227
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0442-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3637763,
+          48.9890227
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0443-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3637763,
+          48.9890227
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0444-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3624823,
+          48.9845918
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0445-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3624823,
+          48.9845918
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0446-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3624823,
+          48.9845918
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0447-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9924199,
+          49.4720973
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0448-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9924199,
+          49.4720973
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0449-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9924199,
+          49.4720973
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0450-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4373738,
+          49.0093024
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0451-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4373738,
+          49.0093024
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0452-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4373738,
+          49.0093024
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0453-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3952563,
+          49.0053196
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0454-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3952563,
+          49.0053196
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0455-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3952563,
+          49.0053196
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0456-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4276008,
+          49.008768
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0457-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4276008,
+          49.008768
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0458-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4242938,
+          49.0054688
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0459-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4242938,
+          49.0054688
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0460-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4242938,
+          49.0054688
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0461-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4327685,
+          49.0145337
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0462-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4327685,
+          49.0145337
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0463-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4327685,
+          49.0145337
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0464-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4297454,
+          49.0098442
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0465-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4297454,
+          49.0098442
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0466-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4297454,
+          49.0098442
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0467-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4207698,
+          49.0093134
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0468-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4207698,
+          49.0093134
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0469-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4207698,
+          49.0093134
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0470-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.422783299999999,
+          49.01330249999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0471-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.422783299999999,
+          49.01330249999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0472-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4311623,
+          49.0112813
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0473-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4311623,
+          49.0112813
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0474-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4311623,
+          49.0112813
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0475-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4365449,
+          49.0115602
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0476-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4365449,
+          49.0115602
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0477-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4365449,
+          49.0115602
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0478-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5084477,
+          48.95415089999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0479-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5084477,
+          48.95415089999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0480-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9661148,
+          53.5672391
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0481-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9661148,
+          53.5672391
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0482-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9661148,
+          53.5672391
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0483-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3338232,
+          49.0000373
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0484-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3338232,
+          49.0000373
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0485-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.342771899999999,
+          49.0023781
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0486-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.342771899999999,
+          49.0023781
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0487-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.342771899999999,
+          49.0023781
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0488-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3328492,
+          48.9956045
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0489-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3328492,
+          48.9956045
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0490-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0086194,
+          51.4548398
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0491-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0086194,
+          51.4548398
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0492-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3356132,
+          48.9929817
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0493-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3356132,
+          48.9929817
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0494-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3356132,
+          48.9929817
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0495-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3361787,
+          48.9968668
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0496-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3361787,
+          48.9968668
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0497-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3361787,
+          48.9968668
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0498-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4454675,
+          52.5426675
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0499-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4454675,
+          52.5426675
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0500-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4454675,
+          52.5426675
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0501-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7643079,
+          51.0670538
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0502-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7643079,
+          51.0670538
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0503-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7643079,
+          51.0670538
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0504-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1832254,
+          48.8029886
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0505-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1832254,
+          48.8029886
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0506-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4434036,
+          49.0102179
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0507-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4434036,
+          49.0102179
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0508-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4434036,
+          49.0102179
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0509-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7769319,
+          47.4719097
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0510-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7769319,
+          47.4719097
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0511-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7769319,
+          47.4719097
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0512-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4459883,
+          49.0188609
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0513-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4459883,
+          49.0188609
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0514-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4459883,
+          49.0188609
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0515-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.440891299999999,
+          49.0116745
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0516-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.440891299999999,
+          49.0116745
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0517-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.440891299999999,
+          49.0116745
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0518-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2091874,
+          48.838542
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0519-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2091874,
+          48.838542
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0520-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2091874,
+          48.838542
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0521-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4087981,
+          48.9813376
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0522-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4087981,
+          48.9813376
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0523-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4090713,
+          48.9724143
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0524-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4090713,
+          48.9724143
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0525-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.400697899999999,
+          48.9654152
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0526-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.400697899999999,
+          48.9654152
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0527-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.400697899999999,
+          48.9654152
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0528-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4095896,
+          48.9692933
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0529-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4095896,
+          48.9692933
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0530-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4095896,
+          48.9692933
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0531-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4072192,
+          48.9762512
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0532-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4072192,
+          48.9762512
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0533-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1549349,
+          48.8884845
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0534-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1549349,
+          48.8884845
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0535-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1549349,
+          48.8884845
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0536-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.40275,
+          48.9682329
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0537-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.40275,
+          48.9682329
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0538-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.40275,
+          48.9682329
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0539-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4103888,
+          48.9645159
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0540-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4103888,
+          48.9645159
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0541-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4103888,
+          48.9645159
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0542-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4160693,
+          48.9703888
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0543-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4160693,
+          48.9703888
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0544-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4160693,
+          48.9703888
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0545-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4049131,
+          48.971219
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0546-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4049131,
+          48.971219
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0547-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4074937,
+          48.9791101
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0548-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4074937,
+          48.9791101
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0549-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4074937,
+          48.9791101
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0550-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5141043,
+          48.9496697
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0551-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5141043,
+          48.9496697
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0552-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5141043,
+          48.9496697
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0553-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5035478,
+          48.9514299
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0554-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5035478,
+          48.9514299
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0555-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5035478,
+          48.9514299
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0556-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5028654,
+          48.9526669
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0557-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5028654,
+          48.9526669
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0558-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5028654,
+          48.9526669
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0559-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18788,
+          47.643127
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0560-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18788,
+          47.643127
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0561-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5061868,
+          48.9676586
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0562-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5061868,
+          48.9676586
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0563-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5061868,
+          48.9676586
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0564-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.505611,
+          48.9568715
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0565-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.505611,
+          48.9568715
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0566-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.505611,
+          48.9568715
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0567-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4028709,
+          48.9959969
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0568-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4028709,
+          48.9959969
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0569-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4028709,
+          48.9959969
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0570-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4033157,
+          48.9992161
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0571-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4033157,
+          48.9992161
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0572-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4063573,
+          49.0040384
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0573-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4063573,
+          49.0040384
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0574-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4083755,
+          48.9973109
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0575-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4083755,
+          48.9973109
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0576-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4083755,
+          48.9973109
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0577-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4127877,
+          49.0046461
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0578-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4127877,
+          49.0046461
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0579-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4127877,
+          49.0046461
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0580-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.410609,
+          49.0006173
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0581-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.410609,
+          49.0006173
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0582-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.410609,
+          49.0006173
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0583-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4156265,
+          48.9999188
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0584-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4156265,
+          48.9999188
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0585-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4156265,
+          48.9999188
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0586-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3965449,
+          49.0035614
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0587-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3965449,
+          49.0035614
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0588-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.538556,
+          47.3717284
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0589-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.538556,
+          47.3717284
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0590-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.538556,
+          47.3717284
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0591-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.390978,
+          48.9948961
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0592-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.390978,
+          48.9948961
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0593-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.390978,
+          48.9948961
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0594-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.380713499999999,
+          48.9977751
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0595-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.380713499999999,
+          48.9977751
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0596-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.380713499999999,
+          48.9977751
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0597-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3944143,
+          49.0043257
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0598-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3944143,
+          49.0043257
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0599-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3944143,
+          49.0043257
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0600-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3895641,
+          48.9973664
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0601-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3895641,
+          48.9973664
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0602-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3895641,
+          48.9973664
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0603-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4009197,
+          49.004016
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0604-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4009197,
+          49.004016
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0605-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3891814,
+          49.00347780000001
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0606-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3891814,
+          49.00347780000001
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0607-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3969928,
+          49.0014552
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0608-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3969928,
+          49.0014552
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0609-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.382947399999999,
+          49.00012
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0610-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.382947399999999,
+          49.00012
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0611-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3962811,
+          48.9982
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0612-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3962811,
+          48.9982
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0613-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.387881199999999,
+          48.9985741
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0614-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.387881199999999,
+          48.9985741
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0615-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.387881199999999,
+          48.9985741
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0616-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.396541599999999,
+          48.9930013
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0617-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.396541599999999,
+          48.9930013
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0618-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.396541599999999,
+          48.9930013
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0619-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6464704,
+          48.1079012
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0620-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6464704,
+          48.1079012
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0621-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6464704,
+          48.1079012
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0622-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7563103,
+          52.41987289999999
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0623-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7563103,
+          52.41987289999999
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0624-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7563103,
+          52.41987289999999
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0625-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4450859,
+          49.0420742
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0626-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4450859,
+          49.0420742
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0627-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4450859,
+          49.0420742
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0628-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.446379799999999,
+          49.0417797
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0629-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.446379799999999,
+          49.0417797
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0630-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.446379799999999,
+          49.0417797
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0631-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8710909,
+          53.070777
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0632-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8710909,
+          53.070777
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0633-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8710909,
+          53.070777
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0634-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8710909,
+          53.070777
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0635-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8710909,
+          53.070777
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0636-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4392129,
+          49.0379192
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0637-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4392129,
+          49.0379192
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0638-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4392129,
+          49.0379192
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0639-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4375621,
+          49.0391328
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0640-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4375621,
+          49.0391328
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0641-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4375621,
+          49.0391328
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0642-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.375564,
+          52.5444147
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0643-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.375564,
+          52.5444147
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0644-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.375564,
+          52.5444147
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0645-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1382486,
+          49.4012436
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0646-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1382486,
+          49.4012436
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0647-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1382486,
+          49.4012436
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0648-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8315677,
+          51.2156486
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0649-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8315677,
+          51.2156486
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0650-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3187752,
+          52.4305124
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0651-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3187752,
+          52.4305124
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0652-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5863678,
+          49.1591384
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0653-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5863678,
+          49.1591384
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0654-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5863678,
+          49.1591384
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0655-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4441718,
+          49.03380320000001
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0656-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4441718,
+          49.03380320000001
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0657-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4441718,
+          49.03380320000001
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0658-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3376465,
+          52.4579198
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0659-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3376465,
+          52.4579198
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0660-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4577499,
+          49.0426312
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0661-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4577499,
+          49.0426312
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0662-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4577499,
+          49.0426312
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0663-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4365901,
+          49.0356357
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0664-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4365901,
+          49.0356357
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0665-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4365901,
+          49.0356357
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0666-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4365901,
+          49.0356357
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0667-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4365901,
+          49.0356357
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0668-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4365901,
+          49.0356357
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0669-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4475875,
+          49.0276514
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0670-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4475875,
+          49.0276514
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0671-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4475875,
+          49.0276514
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0672-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6472716,
+          49.7588931
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0673-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6472716,
+          49.7588931
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0674-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6472716,
+          49.7588931
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0675-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3958555,
+          48.985471
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0676-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3958555,
+          48.985471
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0677-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3958555,
+          48.985471
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0678-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3750109,
+          49.0136225
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0679-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3750109,
+          49.0136225
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0680-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3750109,
+          49.0136225
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0681-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.373619399999999,
+          49.0043221
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0682-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.373619399999999,
+          49.0043221
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0683-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3698772,
+          49.0091427
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0684-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3698772,
+          49.0091427
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0685-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3699327,
+          49.0037934
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0686-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3699327,
+          49.0037934
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0687-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3780844,
+          49.0080698
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0688-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3780844,
+          49.0080698
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0689-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3780844,
+          49.0080698
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0690-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3847126,
+          49.0053838
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0691-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3847126,
+          49.0053838
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0692-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3847126,
+          49.0053838
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0693-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3681004,
+          49.0052375
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0694-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3681004,
+          49.0052375
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0695-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3681004,
+          49.0052375
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0696-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3862246,
+          49.0125807
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0697-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3862246,
+          49.0125807
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0698-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3862246,
+          49.0125807
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0699-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3716955,
+          49.0089487
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0700-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3716955,
+          49.0089487
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0701-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3716955,
+          49.0089487
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0702-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3814953,
+          49.007946
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0703-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3814953,
+          49.007946
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0704-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.382161199999999,
+          49.0126972
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0705-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.382161199999999,
+          49.0126972
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0706-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.382161199999999,
+          49.0126972
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0707-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.373210499999999,
+          49.00852510000001
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0708-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.373210499999999,
+          49.00852510000001
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0709-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.373210499999999,
+          49.00852510000001
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0710-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3721073,
+          49.007832
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0711-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3721073,
+          49.007832
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0712-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3721073,
+          49.007832
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0713-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4621473,
+          48.98159940000001
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0714-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4621473,
+          48.98159940000001
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0715-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4621473,
+          48.98159940000001
+        ]
+      },
+      "properties": {
+        "color": "Brown",
+        "container_id": "KA-0716-B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4563976,
+          48.9764653
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0717-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4563976,
+          48.9764653
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0718-G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.45127,
+          48.9773971
+        ]
+      },
+      "properties": {
+        "color": "White",
+        "container_id": "KA-0719-W"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.45127,
+          48.9773971
+        ]
+      },
+      "properties": {
+        "color": "Green",
+        "container_id": "KA-0720-G"
+      }
+    }
+  ]
+}
