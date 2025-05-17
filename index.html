@@ -4,86 +4,186 @@
   <title>Glass Bin Route Map</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-  />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <style>
     #map { height: 100vh; width: 100vw; }
+
+    .route-buttons {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: white;
+      padding: 10px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+      z-index: 1000;
+    }
+
+    .route-buttons button {
+      display: block;
+      margin-bottom: 5px;
+      width: 100px;
+      padding: 5px;
+      font-weight: bold;
+      cursor: pointer;
+    }
   </style>
 </head>
 <body>
-<div id="map"></div>
+  <div id="map"></div>
+  <div class="route-buttons">
+    <button onclick="toggleRoute('white')">White</button>
+    <button onclick="toggleRoute('green')">Green</button>
+    <button onclick="toggleRoute('brown')">Brown</button>
+  </div>
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+  const ORS_API_KEY = '5b3ce3597851110001cf6248985e909624ed4b7ea29c214af3863a7a';
+  const map = L.map('map').setView([49.00687, 8.40343], 13);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: 'Map © OpenStreetMap contributors'
+  }).addTo(map);
 
-<script>
-const ORS_API_KEY = '5b3ce3597851110001cf6248985e909624ed4b7ea29c214af3863a7a'; // Replace with your own key if needed
+  const coordCounts = {};
+  const routeLayers = { white: null, green: null, brown: null };
+  let userLocation = null;
+  let allFeatures = [];
 
-const map = L.map('map').setView([49.00687, 8.40343], 13);
-
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  attribution: 'Map © OpenStreetMap contributors'
-}).addTo(map);
-
-// To avoid overlapping markers at identical coordinates
-const coordCounts = {};
-
-function jitterCoords(lat, lng) {
-  const key = `${lat.toFixed(6)}_${lng.toFixed(6)}`;
-  coordCounts[key] = (coordCounts[key] || 0) + 1;
-  const count = coordCounts[key];
-  if (count > 1) {
-    const offset = 0.00003 * (count - 1);
-    return [lat + offset, lng + offset];
+  function jitterCoords(lat, lng) {
+    const key = `${lat.toFixed(6)}_${lng.toFixed(6)}`;
+    coordCounts[key] = (coordCounts[key] || 0) + 1;
+    const count = coordCounts[key];
+    if (count > 1) {
+      const offset = 0.00003 * (count - 1);
+      return [lat + offset, lng + offset];
+    }
+    return [lat, lng];
   }
-  return [lat, lng];
-}
 
-function getColorStyle(color) {
-  const c = color.toLowerCase();
-  if (c === 'white') {
-    return { radius: 7, fillColor: 'gray', color: 'black', weight: 2, opacity: 1, fillOpacity: 0.8 };
-  } else if (c === 'green') {
-    return { radius: 7, fillColor: 'green', color: 'black', weight: 2, opacity: 1, fillOpacity: 0.8 };
-  } else if (c === 'brown') {
-    return { radius: 7, fillColor: 'brown', color: 'black', weight: 2, opacity: 1, fillOpacity: 0.8 };
-  } else {
-    return { radius: 7, fillColor: 'blue', color: 'black', weight: 2, opacity: 1, fillOpacity: 0.8 };
+  function getColorStyle(color) {
+    const c = color.toLowerCase();
+    const styles = {
+      white: { radius: 7, fillColor: 'gray', color: 'black', weight: 2, opacity: 1, fillOpacity: 0.8 },
+      green: { radius: 7, fillColor: 'green', color: 'black', weight: 2, opacity: 1, fillOpacity: 0.8 },
+      brown: { radius: 7, fillColor: 'brown', color: 'black', weight: 2, opacity: 1, fillOpacity: 0.8 }
+    };
+    return styles[c] || styles.white;
   }
-}
 
-// Load GeoJSON with bins
-fetch('bins.geojson')
-  .then(res => res.json())
-  .then(geojson => {
-    geojson.features.forEach((feature, i) => {
-      const coords = feature.geometry.coordinates;
-      const origColor = feature.properties.color || 'gray';
-      const style = getColorStyle(origColor);
-      const [lat, lng] = jitterCoords(coords[1], coords[0]);
+  function toggleRoute(color) {
+    if (routeLayers[color]) {
+      map.removeLayer(routeLayers[color]);
+      routeLayers[color] = null;
+      return;
+    }
 
-      const containerId = feature.properties.container_id || 'N/A';
-      const floodLevel = feature.properties.flood_level ?? 'N/A';
+    const filtered = allFeatures.filter(f =>
+      f.properties.color.toLowerCase() === color &&
+      f.properties.flood_level >= 70
+    );
 
-      L.circleMarker([lat, lng], style)
-        .addTo(map)
-        .bindPopup(
-          `<strong>Container ID:</strong> ${containerId}<br>` +
-          `<strong>Flood Level:</strong> ${floodLevel}%`
-        );
+    if (!userLocation || filtered.length === 0) {
+      alert(`No ${color} bins with flood_level ≥ 70 or user location not available.`);
+      return;
+    }
+
+    const depot = userLocation;
+    const points = filtered.map(f => ({
+      lat: f.geometry.coordinates[1],
+      lng: f.geometry.coordinates[0]
+    }));
+
+    const routeCoords = nearestNeighborRoute(depot, points);
+    const latlngs = [depot, ...routeCoords, depot];
+
+    const coordsForORS = latlngs.map(p => [p.lng, p.lat]);
+
+    fetch('https://api.openrouteservice.org/v2/directions/driving-car/geojson', {
+      method: 'POST',
+      headers: {
+        'Authorization': ORS_API_KEY,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ coordinates: coordsForORS })
+    })
+    .then(res => res.json())
+    .then(data => {
+      const routeLine = L.geoJSON(data, {
+        style: { color: color, weight: 5, opacity: 0.8 }
+      }).addTo(map);
+      routeLayers[color] = routeLine;
+    })
+    .catch(err => {
+      console.error('ORS error:', err);
+      alert('Failed to fetch road route.');
     });
+  }
 
-    // Show user's current location
-    navigator.geolocation.getCurrentPosition(pos => {
-      const userCoord = [pos.coords.longitude, pos.coords.latitude];
-      L.marker([userCoord[1], userCoord[0]], { title: 'Your Location' })
-        .addTo(map)
-        .bindPopup('Your Location')
-        .openPopup();
-    });
-  })
-  .catch(err => console.error('Failed to load geojson:', err));
-</script>
+  function nearestNeighborRoute(start, points) {
+    const visited = new Array(points.length).fill(false);
+    const route = [];
+    let current = start;
+
+    for (let i = 0; i < points.length; i++) {
+      let minDist = Infinity;
+      let minIndex = -1;
+      for (let j = 0; j < points.length; j++) {
+        if (!visited[j]) {
+          const d = distance(current, points[j]);
+          if (d < minDist) {
+            minDist = d;
+            minIndex = j;
+          }
+        }
+      }
+      if (minIndex !== -1) {
+        visited[minIndex] = true;
+        route.push(points[minIndex]);
+        current = points[minIndex];
+      }
+    }
+
+    return route;
+  }
+
+  function distance(a, b) {
+    const dx = a.lat - b.lat;
+    const dy = a.lng - b.lng;
+    return Math.sqrt(dx * dx + dy * dy);
+  }
+
+  fetch('bins.geojson')
+    .then(res => res.json())
+    .then(geojson => {
+      allFeatures = geojson.features;
+
+      geojson.features.forEach((feature, i) => {
+        const coords = feature.geometry.coordinates;
+        const color = feature.properties.color.toLowerCase();
+        const style = getColorStyle(color);
+        const [lat, lng] = jitterCoords(coords[1], coords[0]);
+        const flood = feature.properties.flood_level;
+
+        L.circleMarker([lat, lng], style)
+          .addTo(map)
+          .bindPopup(
+            `<strong>Container ID:</strong> ${feature.properties.container_id}<br>` +
+            `<strong>Flood Level:</strong> ${flood}%`
+          );
+      });
+
+      navigator.geolocation.getCurrentPosition(pos => {
+        const lat = pos.coords.latitude;
+        const lng = pos.coords.longitude;
+        userLocation = { lat, lng };
+        L.marker([lat, lng], { title: 'Your Location' })
+          .addTo(map)
+          .bindPopup('Your Location')
+          .openPopup();
+      });
+    })
+    .catch(err => console.error('Failed to load geojson:', err));
+  </script>
 </body>
 </html>

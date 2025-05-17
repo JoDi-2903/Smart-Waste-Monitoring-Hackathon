@@ -6171,36 +6171,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.0086194,
-          51.4548398
-        ]
-      },
-      "properties": {
-        "color": "White",
-        "container_id": "KA-0491-W",
-        "flood_level": 85
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.0086194,
-          51.4548398
-        ]
-      },
-      "properties": {
-        "color": "Green",
-        "container_id": "KA-0492-G",
-        "flood_level": 34
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.3356132,
           48.9929817
         ]
