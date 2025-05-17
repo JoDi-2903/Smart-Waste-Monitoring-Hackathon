@@ -9,6 +9,7 @@ import MapView, { Marker } from "react-native-maps";
 import BottomSheet from "@gorhom/bottom-sheet";
 import { fetchBins } from "@/utils/binFetcher";
 import BinSheetContent from "@/components/BinSheetContent";
+import { mockBins } from "@/utils/mockBin";
 
 type Bin = {
   id: string;
@@ -24,6 +25,9 @@ export default function ExploreScreen() {
   const [bins, setBins] = useState<Bin[]>([]);
   const sheetRef = useRef<BottomSheet>(null);
   const snapPoints = useMemo(() => ["30%", "60%"], []);
+  useEffect(() => {
+    setBins(mockBins); // use mock data
+  }, []);
 
   useEffect(() => {
     fetchBins().then(setBins);
@@ -71,23 +75,3 @@ export default function ExploreScreen() {
     </View>
   );
 }
-
-// import React from "react";
-// import { View, Text } from "react-native";
-// import { SafeAreaView } from "react-native-safe-area-context";
-
-// export default function ExploreScreen() {
-//   return (
-//     <SafeAreaView style={{ flex: 1 }}>
-//       <View
-//         style={{
-//           flex: 1,
-//           backgroundColor: "#1f2937",
-//           justifyContent: "center",
-//           alignItems: "center",
-//         }}>
-//         <Text style={{ color: "#2344455" }}>Explore Tab</Text>
-//       </View>
-//     </SafeAreaView>
-//   );
-// }
