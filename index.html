@@ -110,7 +110,7 @@
     .then(res => res.json())
     .then(data => {
       const routeLine = L.geoJSON(data, {
-        style: { color: color === 'white' ? 'yellow' : color, weight: 5, opacity: 0.8 }
+        style: { color: color === 'white' ? '#CCCC00' : color, weight: 5, opacity: 0.8 }
       }).addTo(map);
       routeLayers[color] = routeLine;
     })
