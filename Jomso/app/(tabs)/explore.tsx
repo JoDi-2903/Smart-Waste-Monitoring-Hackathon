@@ -164,7 +164,6 @@ export default function ExploreScreen() {
           distance={getDistanceFromUser(selectedBin)}
           onReport={() => {
             // trigger photo upload or other logic
-            // router.push("/reportBinCamera");
             setShowCamera(true);
           }}
           onClose={() => {

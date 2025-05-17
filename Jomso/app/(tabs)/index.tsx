@@ -18,7 +18,6 @@ import colors from "@/utils/colors";
 import { rewards } from "../../utils/rewards";
 import { useRouter } from "expo-router";
 import { LinearGradient } from "expo-linear-gradient";
-import { Assets } from "@react-navigation/elements";
 
 // Get screen width for slider calculations
 const { width } = Dimensions.get("window");
