@@ -5,7 +5,6 @@ import {
   View,
   Text,
   StyleSheet,
-  ScrollView,
   Image,
   TouchableOpacity,
   Modal,
@@ -19,6 +18,7 @@ import colors from "@/utils/colors";
 import { rewards } from "../../utils/rewards";
 import { useRouter } from "expo-router";
 import { LinearGradient } from "expo-linear-gradient";
+import { Assets } from "@react-navigation/elements";
 
 // Get screen width for slider calculations
 const { width } = Dimensions.get("window");
@@ -29,31 +29,28 @@ const REWARD_ITEM_SPACING = 12;
 const userData = {
   name: "Alex Johnson",
   role: "Administrator",
-  avatar: "https://randomuser.me/api/portraits/men/32.jpg",
+  avatar: require("@/assets/images/profile_picture_man.jpg"),
 };
 
 // Sample notifications data
 const notifications = [
   {
     id: "1",
-    image:
-      "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+    image: require("@/assets/images/notification_profile_1.jpg"),
     username: "Sarah Parker",
     time: "2 hours ago",
     message: "Recycled 3 glass bottles at Container #12",
   },
   {
     id: "2",
-    image:
-      "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+    image: require("@/assets/images/notification_profile_2.jpg"),
     username: "Michael Chen",
     time: "Yesterday",
     message: "Earned the Green Warrior badge with 500 points!",
   },
   {
     id: "3",
-    image:
-      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+    image: require("@/assets/images/notification_profile_3.jpg"),
     username: "Emma Williams",
     time: "3 days ago",
     message: "Added you as a friend on JOMSO",
@@ -241,7 +238,7 @@ export default function HomeScreen() {
           onMomentumScrollEnd={(e) => {
             const newIndex = Math.round(
               e.nativeEvent.contentOffset.x /
-                (REWARD_ITEM_WIDTH + REWARD_ITEM_SPACING)
+              (REWARD_ITEM_WIDTH + REWARD_ITEM_SPACING)
             );
             setCurrentIndex(newIndex);
           }}

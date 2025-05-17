@@ -1,26 +1,11 @@
 /** @format */
 
-// import { Tabs } from "expo-router";
-// import NeumorphicTabBar from "@/components/ui/NeumorphicTabBar";
-
-// export default function TabLayout() {
-//   return (
-//     <Tabs
-//       tabBar={(props) => <NeumorphicTabBar {...props} />}
-//       screenOptions={{ headerShown: false }}>
-//       <Tabs.Screen name='index' options={{ title: "Home" }} />
-//       {/* <Tabs.Screen name='explore' options={{ title: "Explore" }} /> */}
-//     </Tabs>
-//   );
-// }
-
 import { Tabs } from "expo-router";
 import { View, Text, StyleSheet, Platform } from "react-native";
 import React from "react";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import colors from "../../utils/colors";
-import { router } from "expo-router";
-import { Feather, Fontisto } from "@expo/vector-icons";
+import { Feather } from "@expo/vector-icons";
 
 export default function TabLayout() {
   const insets = useSafeAreaInsets();
