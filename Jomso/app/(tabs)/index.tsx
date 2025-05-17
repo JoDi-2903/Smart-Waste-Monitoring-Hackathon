@@ -1,6 +1,6 @@
 /** @format */
 
-import React from "react";
+import React, { useState } from "react";
 import {
   View,
   Text,
@@ -8,77 +8,218 @@ import {
   ScrollView,
   Image,
   TouchableOpacity,
+  Modal,
+  FlatList,
 } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
-import { Ionicons } from "@expo/vector-icons";
-import colors from "../../utils/colors";
+import { Ionicons, FontAwesome5 } from "@expo/vector-icons";
+import colors from "@/utils/colors";
 import { rewards } from "../../utils/rewards";
 import { useRouter } from "expo-router";
+import { LinearGradient } from "expo-linear-gradient";
+
+// Sample user data
+const userData = {
+  name: "Alex Johnson",
+  role: "Administrator",
+  avatar: "https://randomuser.me/api/portraits/men/32.jpg",
+};
+
+// Sample notifications data
+const notifications = [
+  {
+    id: '1',
+    image: "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+    username: "Sarah Parker",
+    time: "2 hours ago",
+    message: "Recycled 3 glass bottles at Container #12"
+  },
+  {
+    id: '2',
+    image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+    username: "Michael Chen",
+    time: "Yesterday",
+    message: "Earned the Green Warrior badge with 500 points!"
+  },
+  {
+    id: '3',
+    image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+    username: "Emma Williams",
+    time: "3 days ago",
+    message: "Added you as a friend on JOMSO"
+  },
+];
 
 export default function HomeScreen() {
   const insets = useSafeAreaInsets();
   const router = useRouter();
+  const [showNotifications, setShowNotifications] = useState(false);
+
+  // Current points and next reward threshold
+  const currentPoints = 350;
+  const nextRewardThreshold = 500;
+  const progressPercentage = (currentPoints / nextRewardThreshold) * 100;
+
+  const NotificationItem = ({ item }) => (
+    <View style={styles.notificationItem}>
+      <Image source={{ uri: item.image }} style={styles.notificationImage} />
+      <View style={styles.notificationContent}>
+        <Text style={styles.notificationUsername}>{item.username}</Text>
+        <Text style={styles.notificationMessage}>{item.message}</Text>
+        <Text style={styles.notificationTime}>{item.time}</Text>
+      </View>
+    </View>
+  );
 
   return (
-    <ScrollView style={[styles.container, { paddingTop: insets.top }]}>
-      <View style={styles.mobileContainer}>
-        <Text style={styles.mobileTitle}>JOMSO</Text>
-      </View>
-      {/* <View style={styles.cardRow}>
-        <View style={styles.statCard}>
-          <Text style={styles.statTitle}>Total Bins</Text>
-          <Text style={styles.statValue}>42</Text>
-        </View>
-        <View style={styles.statCard}>
-          <Text style={styles.statTitle}>Full (>90%)</Text>
-          <Text style={styles.statValue}>7</Text>
-        </View>
-        <View style={styles.statCard}>
-          <Text style={styles.statTitle}>Avg Fill</Text>
-          <Text style={styles.statValue}>63%</Text>
-        </View>
-      </View> */}
+    <View style={{ flex: 1, backgroundColor: colors.bg_tertiary }}>
+      <ScrollView style={[styles.container, { paddingTop: insets.top }]}>
+        {/* Header with notifications and user profile */}
+        <View style={styles.headerRow}>
+          <TouchableOpacity
+            style={styles.notificationButton}
+            onPress={() => setShowNotifications(true)}
+          >
+            <Ionicons name="notifications" size={24} color={colors.primary} />
+            <View style={styles.notificationBadge}>
+              <Text style={styles.notificationBadgeText}>3</Text>
+            </View>
+          </TouchableOpacity>
 
-      <View style={styles.scoreCard}>
-        <View style={{ flexDirection: "row", alignItems: "center" }}>
-          <View style={styles.circlePoints}>
-            <Text style={styles.scoreNumber}>350</Text>
-            <Text style={styles.scoreLabel}>Points</Text>
-          </View>
-          <View style={{ marginLeft: 12 }}>
-            <Text style={styles.rankText}>You're in Rank #3</Text>
-            <Text style={styles.rankSubtext}>
-              Keep going to unlock theater tickets!
-            </Text>
-          </View>
-        </View>
-      </View>
+          <Text style={styles.mobileTitle}>JOMSO</Text>
 
-      <Text style={styles.sectionTitle}>Rewards</Text>
-      <View style={styles.rewardsGrid}>
-        {rewards.map((reward, index) => (
-          <View key={reward.id} style={styles.rewardItemGrid}>
-            <Text style={{ fontSize: 30 }}>{reward.emoji}</Text>
-            <Text style={{ marginTop: 6, fontSize: 12, textAlign: "center" }}>
-              {reward.label}
-            </Text>
+          <TouchableOpacity style={styles.userProfileButton}>
+            <View style={styles.userProfileContent}>
+              <Text style={styles.userName}>{userData.name}</Text>
+              <Text style={styles.userRole}>{userData.role}</Text>
+            </View>
+            <View style={styles.avatarContainer}>
+              <Image source={{ uri: userData.avatar }} style={styles.avatar} />
+            </View>
+          </TouchableOpacity>
+        </View>
+
+        {/* Enhanced gamification scorecard */}
+        <View style={styles.enhancedScoreCard}>
+          <LinearGradient
+            colors={['#f0fdfa', '#99f6e4', '#2dd4bf']}
+            start={{ x: 0, y: 0 }}
+            end={{ x: 1, y: 1 }}
+            style={styles.scoreGradient}
+          >
+            <View style={styles.scoreHeader}>
+              <View style={styles.enhancedCirclePoints}>
+                <Text style={styles.enhancedScoreNumber}>{currentPoints}</Text>
+                <Text style={styles.enhancedScoreLabel}>Points</Text>
+              </View>
+              <View style={{ flex: 1, marginLeft: 16 }}>
+                <View style={styles.rankBadge}>
+                  <FontAwesome5 name="medal" size={16} color="#f59e0b" />
+                  <Text style={styles.enhancedRankText}>Rank #3</Text>
+                </View>
+                <Text style={styles.enhancedRankSubtext}>
+                  Only 150 points to unlock theater tickets!
+                </Text>
+
+                {/* Progress bar */}
+                <View style={styles.progressContainer}>
+                  <View style={[styles.progressBar, { width: `${progressPercentage}%` }]} />
+                  <View style={styles.progressMarker} />
+                </View>
+                <View style={styles.progressLabels}>
+                  <Text style={styles.progressCurrentLabel}>{currentPoints}</Text>
+                  <Text style={styles.progressNextLabel}>{nextRewardThreshold}</Text>
+                </View>
+              </View>
+            </View>
+
+            <TouchableOpacity style={styles.viewLeaderboardButton}>
+              <Text style={styles.viewLeaderboardText}>View Leaderboard</Text>
+              <Ionicons name="chevron-forward" size={16} color={colors.primary} />
+            </TouchableOpacity>
+          </LinearGradient>
+        </View>
+
+        <Text style={styles.sectionTitle}>Rewards</Text>
+        <View style={styles.rewardsGrid}>
+          {rewards.map((reward, index) => (
+            <TouchableOpacity key={reward.id} style={[
+              styles.rewardItemGrid,
+              reward.unlocked ? styles.unlockedReward : styles.lockedReward
+            ]}>
+              <Text style={{ fontSize: 36 }}>{reward.emoji}</Text>
+              <Text style={styles.rewardLabel}>
+                {reward.label}
+              </Text>
+              {!reward.unlocked && (
+                <View style={styles.lockedBadge}>
+                  <Ionicons name="lock-closed" size={14} color="#fff" />
+                </View>
+              )}
+            </TouchableOpacity>
+          ))}
+        </View>
+
+        {/* Call to action section */}
+        <View style={styles.ctaSection}>
+          {/* <View style={styles.ctaIcon}>
+            <LinearGradient
+              colors={['#10b981', '#059669']}
+              style={styles.ctaIconBg}
+              start={{ x: 0, y: 0 }}
+              end={{ x: 1, y: 1 }}
+            >
+              <Ionicons name="leaf" size={28} color="#fff" />
+            </LinearGradient>
+          </View> */}
+          <Text style={styles.ctaTitle}>Make an Impact Today!</Text>
+          <Text style={styles.ctaDescription}>
+            Glass recycling reduces landfill waste by 100% and saves energy. Find a container near you and start earning points!
+          </Text>
+        </View>
+
+        <TouchableOpacity
+          style={styles.exploreButton}
+          onPress={() => router.push("/explore")}>
+          <Ionicons
+            name='location-sharp'
+            size={20}
+            color='#111827'
+            style={{ marginRight: 8 }}
+          />
+          <Text style={styles.exploreButtonText}>
+            Find Nearby Empty Glass Containers
+          </Text>
+        </TouchableOpacity>
+
+        {/* Notifications Modal */}
+        <Modal
+          animationType="slide"
+          transparent={true}
+          visible={showNotifications}
+          onRequestClose={() => setShowNotifications(false)}
+        >
+          <View style={styles.modalContainer}>
+            <View style={styles.notificationsPanel}>
+              <View style={styles.notificationHeader}>
+                <Text style={styles.notificationTitle}>Notifications</Text>
+                <TouchableOpacity onPress={() => setShowNotifications(false)}>
+                  <Ionicons name="close" size={24} color="#333" />
+                </TouchableOpacity>
+              </View>
+
+              <FlatList
+                data={notifications}
+                renderItem={({ item }) => <NotificationItem item={item} />}
+                keyExtractor={item => item.id}
+                contentContainerStyle={styles.notificationsList}
+                showsVerticalScrollIndicator={false}
+              />
+            </View>
           </View>
-        ))}
-      </View>
-      <TouchableOpacity
-        style={styles.exploreButton}
-        onPress={() => router.push("/explore")}>
-        <Ionicons
-          name='location-sharp'
-          size={20}
-          color='#111827'
-          style={{ marginRight: 8 }}
-        />
-        <Text style={styles.exploreButtonText}>
-          Find Nearby Empty Glass Containers
-        </Text>
-      </TouchableOpacity>
-    </ScrollView>
+        </Modal>
+      </ScrollView>
+    </View>
   );
 }
 
@@ -87,119 +228,227 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingHorizontal: 16,
     backgroundColor: colors.bg_tertiary,
-    gap: 9,
   },
   headerRow: {
     flexDirection: "row",
     justifyContent: "space-between",
     alignItems: "center",
     marginBottom: 20,
-    marginTop: 8,
+    paddingVertical: 10,
   },
-  mobileContainer: {
-    flexDirection: "row",
-    alignItems: "center",
-    justifyContent: "center",
-    paddingHorizontal: 14,
+  notificationButton: {
+    padding: 8,
+    position: 'relative',
+  },
+  notificationBadge: {
+    position: 'absolute',
+    top: 0,
+    right: 0,
+    backgroundColor: '#ef4444',
+    width: 18,
+    height: 18,
+    borderRadius: 9,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  notificationBadgeText: {
+    color: 'white',
+    fontSize: 10,
+    fontWeight: 'bold',
   },
   mobileTitle: {
-    fontSize: 34,
-    fontWeight: 900,
+    fontSize: 24,
+    fontWeight: 'bold',
     color: colors.primary,
-    textAlign: "center",
   },
-  greeting: {
-    fontSize: 20,
-    fontWeight: "600",
-    color: "#333",
+  userProfileButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
   },
-  subtext: {
+  userProfileContent: {
+    alignItems: 'flex-end',
+    marginRight: 8,
+  },
+  userName: {
     fontSize: 14,
-    color: "#777",
+    fontWeight: '600',
+    color: colors.primary,
   },
-  cardRow: {
-    flexDirection: "row",
-    justifyContent: "space-between",
-    marginBottom: 20,
-  },
-  statCard: {
-    flex: 1,
-    backgroundColor: "#fff",
-    padding: 16,
-    borderRadius: 12,
-    marginHorizontal: 4,
-    shadowColor: "#000",
-    shadowOpacity: 0.05,
-    shadowRadius: 6,
-    elevation: 2,
-  },
-  statTitle: {
+  userRole: {
     fontSize: 12,
-    color: "#888",
-    marginBottom: 4,
+    color: colors.accent,
   },
-  statValue: {
-    fontSize: 20,
-    fontWeight: "bold",
-    color: "#333",
+  avatarContainer: {
+    width: 36,
+    height: 36,
+    borderRadius: 18,
+    overflow: 'hidden',
+    borderWidth: 2,
+    borderColor: colors.primary,
   },
-  scoreCard: {
-    backgroundColor: "#fff",
-    padding: 16,
-    borderRadius: 16,
-    marginBottom: 16,
+  avatar: {
+    width: '100%',
+    height: '100%',
+  },
+  enhancedScoreCard: {
+    borderRadius: 20,
+    marginBottom: 24,
+    overflow: 'hidden',
     shadowColor: "#000",
-    shadowOpacity: 0.06,
-    shadowRadius: 6,
+    shadowOpacity: 0.1,
+    shadowRadius: 10,
+    elevation: 5,
+  },
+  scoreGradient: {
+    padding: 20,
+  },
+  scoreHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  enhancedCirclePoints: {
+    width: 90,
+    height: 90,
+    borderRadius: 45,
+    backgroundColor: 'rgba(255, 255, 255, 0.8)',
+    alignItems: 'center',
+    justifyContent: 'center',
+    shadowColor: "#000",
+    shadowOpacity: 0.1,
+    shadowRadius: 5,
     elevation: 3,
   },
-  circlePoints: {
-    width: 80,
-    height: 80,
-    borderRadius: 40,
-    borderWidth: 6,
-    borderColor: "#2dd4bf",
-    alignItems: "center",
-    justifyContent: "center",
+  enhancedScoreNumber: {
+    fontSize: 24,
+    fontWeight: 'bold',
+    color: '#111827',
   },
-  scoreNumber: {
-    fontSize: 18,
-    fontWeight: "bold",
-    color: "#111827",
+  enhancedScoreLabel: {
+    fontSize: 14,
+    color: '#4b5563',
   },
-  scoreLabel: {
-    fontSize: 12,
-    color: "#6b7280",
+  rankBadge: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: 'rgba(255, 255, 255, 0.7)',
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderRadius: 12,
+    alignSelf: 'flex-start',
+    marginBottom: 8,
   },
-  rankText: {
+  enhancedRankText: {
     fontSize: 16,
-    fontWeight: "bold",
-    color: "#1f2937",
+    fontWeight: 'bold',
+    color: '#1f2937',
+    marginLeft: 6,
   },
-  rankSubtext: {
-    fontSize: 13,
-    color: "#4b5563",
-    marginTop: 2,
+  enhancedRankSubtext: {
+    fontSize: 14,
+    color: '#1f2937',
+    marginBottom: 12,
+  },
+  progressContainer: {
+    height: 8,
+    backgroundColor: 'rgba(255, 255, 255, 0.5)',
+    borderRadius: 4,
+    marginTop: 6,
+    position: 'relative',
+  },
+  progressBar: {
+    height: '100%',
+    backgroundColor: '#fff',
+    borderRadius: 4,
+  },
+  progressMarker: {
+    width: 14,
+    height: 14,
+    borderRadius: 7,
+    backgroundColor: '#fff',
+    position: 'absolute',
+    top: -3,
+    right: 0,
+    borderWidth: 2,
+    borderColor: '#2dd4bf',
+  },
+  progressLabels: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    marginTop: 4,
+  },
+  progressCurrentLabel: {
+    fontSize: 12,
+    color: '#1f2937',
+  },
+  progressNextLabel: {
+    fontSize: 12,
+    color: '#1f2937',
+    fontWeight: 'bold',
+  },
+  viewLeaderboardButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginTop: 16,
+    backgroundColor: 'rgba(255, 255, 255, 0.7)',
+    padding: 10,
+    borderRadius: 12,
+  },
+  viewLeaderboardText: {
+    color: colors.primary,
+    fontWeight: '600',
+    marginRight: 5,
   },
   sectionTitle: {
-    fontSize: 16,
+    fontSize: 18,
     fontWeight: "bold",
-    marginBottom: 10,
+    marginBottom: 14,
     color: colors.primary,
   },
-  rewardItem: {
-    backgroundColor: "#f9fafb",
-    padding: 12,
-    marginRight: 12,
+  rewardsGrid: {
+    flexDirection: "row",
+    flexWrap: "wrap",
+    justifyContent: "space-between",
+    marginBottom: 24,
+    gap: 12,
+  },
+  rewardItemGrid: {
+    padding: 18,
+    borderRadius: 16,
     alignItems: "center",
-    borderRadius: 12,
-    width: 90,
+    justifyContent: "center",
+    width: "48%",
     shadowColor: "#000",
-    shadowOpacity: 0.05,
+    shadowOpacity: 0.06,
     shadowRadius: 4,
     elevation: 2,
+    position: 'relative',
+    minHeight: 110,
   },
-
+  unlockedReward: {
+    backgroundColor: '#f9fafb',
+  },
+  lockedReward: {
+    backgroundColor: '#f3f4f6',
+    opacity: 0.8,
+  },
+  rewardLabel: {
+    marginTop: 8,
+    fontSize: 13,
+    textAlign: "center",
+    fontWeight: '500',
+  },
+  lockedBadge: {
+    position: 'absolute',
+    top: 8,
+    right: 8,
+    backgroundColor: 'rgba(107, 114, 128, 0.8)',
+    width: 24,
+    height: 24,
+    borderRadius: 12,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
   exploreButton: {
     flexDirection: "row",
     alignItems: "center",
@@ -209,8 +458,8 @@ const styles = StyleSheet.create({
     borderRadius: 16,
     marginBottom: 24,
     shadowColor: "#000",
-    shadowOpacity: 0.08,
-    shadowRadius: 4,
+    shadowOpacity: 0.1,
+    shadowRadius: 6,
     elevation: 3,
   },
   exploreButtonText: {
@@ -218,25 +467,113 @@ const styles = StyleSheet.create({
     fontWeight: "600",
     fontSize: 16,
   },
-
-  rewardsGrid: {
-    flexDirection: "row",
-    flexWrap: "wrap",
-    justifyContent: "space-between",
-    marginBottom: 20,
-    gap: 12,
+  // Modal and notifications styles
+  modalContainer: {
+    flex: 1,
+    backgroundColor: 'rgba(0, 0, 0, 0.5)',
+    justifyContent: 'flex-end',
   },
-
-  rewardItemGrid: {
-    backgroundColor: "#f9fafb",
-    padding: 16,
-    borderRadius: 12,
+  notificationsPanel: {
+    backgroundColor: '#fff',
+    borderTopLeftRadius: 24,
+    borderTopRightRadius: 24,
+    height: '80%',
+    padding: 20,
+  },
+  notificationHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingBottom: 16,
+    borderBottomWidth: 1,
+    borderBottomColor: '#f1f1f1',
+    marginBottom: 16,
+  },
+  notificationTitle: {
+    fontSize: 20,
+    fontWeight: 'bold',
+    color: '#333',
+  },
+  notificationsList: {
+    paddingBottom: 20,
+  },
+  notificationItem: {
+    flexDirection: 'row',
+    padding: 12,
+    borderBottomWidth: 1,
+    borderBottomColor: '#f1f1f1',
+    alignItems: 'center',
+  },
+  notificationImage: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+  },
+  notificationContent: {
+    marginLeft: 14,
+    flex: 1,
+  },
+  notificationUsername: {
+    fontSize: 16,
+    fontWeight: '600',
+    color: '#333',
+  },
+  notificationMessage: {
+    fontSize: 14,
+    color: '#666',
+    marginTop: 2,
+    marginBottom: 4,
+  },
+  notificationTime: {
+    fontSize: 12,
+    color: '#888',
+  },
+  // Legacy styles kept for compatibility
+  mobileContainer: {
+    flexDirection: "row",
     alignItems: "center",
     justifyContent: "center",
-    width: "48%",
+    paddingHorizontal: 14,
+  },
+  mobileTitle: {
+    fontSize: 24,
+    fontWeight: 'bold',
+    color: colors.primary,
+  },
+  // Add these to the StyleSheet
+
+  ctaSection: {
+    paddingVertical: 16,
+    marginBottom: 16,
+    alignItems: 'center',
+  },
+  ctaIcon: {
+    marginBottom: 12,
     shadowColor: "#000",
-    shadowOpacity: 0.05,
-    shadowRadius: 4,
-    elevation: 2,
+    shadowOpacity: 0.2,
+    shadowRadius: 8,
+    elevation: 4,
+  },
+  ctaIconBg: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  ctaTitle: {
+    fontSize: 20,
+    fontWeight: 'bold',
+    color: colors.accent,
+    marginBottom: 8,
+    textAlign: 'center',
+  },
+  ctaDescription: {
+    fontSize: 15,
+    color: colors.secondary,
+    textAlign: 'center',
+    marginBottom: 0,
+    lineHeight: 22,
+    paddingHorizontal: 20,
   },
 });
