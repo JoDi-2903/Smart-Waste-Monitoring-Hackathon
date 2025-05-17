@@ -110,7 +110,7 @@
     .then(res => res.json())
     .then(data => {
       const routeLine = L.geoJSON(data, {
-        style: { color: color, weight: 5, opacity: 0.8 }
+        style: { color: color === 'white' ? 'yellow' : color, weight: 5, opacity: 0.8 }
       }).addTo(map);
       routeLayers[color] = routeLine;
     })
@@ -153,25 +153,50 @@
     return Math.sqrt(dx * dx + dy * dy);
   }
 
+  const binIcons = {
+    white: L.icon({
+      iconUrl: 'icons/white.png',
+      iconSize: [30, 30],
+      iconAnchor: [15, 30],
+      popupAnchor: [0, -30]
+    }),
+    green: L.icon({
+      iconUrl: 'icons/green.png',
+      iconSize: [30, 30],
+      iconAnchor: [15, 30],
+      popupAnchor: [0, -30]
+    }),
+    brown: L.icon({
+      iconUrl: 'icons/brown.png',
+      iconSize: [30, 30],
+      iconAnchor: [15, 30],
+      popupAnchor: [0, -30]
+    })
+  };
+
   fetch('bins.geojson')
     .then(res => res.json())
     .then(geojson => {
       allFeatures = geojson.features;
 
-      geojson.features.forEach((feature, i) => {
-        const coords = feature.geometry.coordinates;
-        const color = feature.properties.color.toLowerCase();
-        const style = getColorStyle(color);
-        const [lat, lng] = jitterCoords(coords[1], coords[0]);
-        const flood = feature.properties.flood_level;
+  geojson.features.forEach((feature, i) => {
+    const coords = feature.geometry.coordinates;
+    const color = feature.properties.color.toLowerCase();
+    const icon = binIcons[color] || binIcons.white;
+    const [lat, lng] = jitterCoords(coords[1], coords[0]);
+    const flood = feature.properties.flood_level;
 
-        L.circleMarker([lat, lng], style)
-          .addTo(map)
-          .bindPopup(
-            `<strong>Container ID:</strong> ${feature.properties.container_id}<br>` +
-            `<strong>Flood Level:</strong> ${flood}%`
-          );
-      });
+    // Save updated coordinates back for routing
+    feature.geometry.coordinates[1] = lat;
+    feature.geometry.coordinates[0] = lng;
+
+    L.marker([lat, lng], { icon: icon })
+      .addTo(map)
+      .bindPopup(
+        `<strong>Container ID:</strong> ${feature.properties.container_id}<br>` +
+        `<strong>Flood Level:</strong> ${flood}%`
+      );
+  });
 
       navigator.geolocation.getCurrentPosition(pos => {
         const lat = pos.coords.latitude;
