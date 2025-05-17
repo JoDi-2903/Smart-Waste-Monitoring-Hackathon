@@ -15,7 +15,11 @@ import { Ionicons, MaterialCommunityIcons } from "@expo/vector-icons";
 
 export default function WasteManagementDashboard() {
     const [selectedGlassType, setSelectedGlassType] = useState("white");
-    const screenWidth = Dimensions.get("window").width - 40;
+    // const screenWidth =  300;
+    const screenWidth = Dimensions.get("window").width - 80; // Adjust for horizontal padding if needed
+
+    
+
 
     // Historical fill level data for different glass container types
     const fillLevelData = {
@@ -168,13 +172,16 @@ export default function WasteManagementDashboard() {
                             width={screenWidth}
                             height={220}
                             chartConfig={{
-                                backgroundColor: "#fff",
+                                backgroundColor: "#f8f8ff",
                                 backgroundGradientFrom: "#fff",
                                 backgroundGradientTo: "#fff",
                                 decimalPlaces: 0,
                                 color: (opacity = 1) => getColorByType(selectedGlassType, opacity),
                                 labelColor: () => "#333",
-                                style: { borderRadius: 16 }
+                                style: { borderRadius: 16 },
+                                propsForLabels: {
+                                    fontSize: 8,
+                                },
                             }}
                             bezier
                             style={styles.chart}
@@ -206,7 +213,10 @@ export default function WasteManagementDashboard() {
                                     r: "6",
                                     strokeWidth: "2",
                                     stroke: "#fff"
-                                }
+                                },
+                                 propsForLabels: {
+                                    fontSize: 8,
+                                },
                             }}
                             bezier
                             style={styles.chart}
@@ -467,6 +477,10 @@ const styles = StyleSheet.create({
     },
     // Chart styles
     chartContainer: {
+        width:"95%",
+        flex:1,
+        justifyContent:"center",
+        marginRight:25,
         marginBottom: 20,
     },
     chartTitleRow: {

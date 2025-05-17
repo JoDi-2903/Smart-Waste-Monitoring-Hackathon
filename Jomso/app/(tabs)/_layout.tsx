@@ -104,13 +104,13 @@ export default function TabLayout() {
             tabBarLabel: ({ focused }) => (
               <Text
                 style={{ color: focused ? colors.primary : colors.highlight }}>
-                Menu
+                AI Analysis
               </Text>
             ),
             tabBarIcon: ({ color, size, focused }) => (
               <View style={styles.tabItem}>
                 {focused && <View style={styles.activeLine} />}
-                <Feather name='menu' size={size} color={color} />
+                <Feather name='activity' size={size} color={color} />
               </View>
             ),
           }}
