@@ -15,8 +15,7 @@ import { Ionicons, MaterialCommunityIcons } from "@expo/vector-icons";
 
 export default function WasteManagementDashboard() {
     const [selectedGlassType, setSelectedGlassType] = useState("white");
-    // const screenWidth =  300;
-    const screenWidth = Dimensions.get("window").width - 80; // Adjust for horizontal padding if needed
+    const screenWidth = Dimensions.get("window").width - 80;
 
     
 

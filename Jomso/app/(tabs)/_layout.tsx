@@ -48,7 +48,7 @@ export default function TabLayout() {
           },
         }}>
         <Tabs.Screen
-          name='index'
+          name='home'
           options={{
             tabBarLabel: ({ focused }) => (
               <Text
@@ -82,7 +82,7 @@ export default function TabLayout() {
           }}
         />
         <Tabs.Screen
-          name='dist'
+          name='distributor'
           options={{
             tabBarLabel: ({ focused }) => (
               <Text
@@ -99,7 +99,7 @@ export default function TabLayout() {
           }}
         />
         <Tabs.Screen
-          name='menu'
+          name='aiAnalysis'
           options={{
             tabBarLabel: ({ focused }) => (
               <Text
