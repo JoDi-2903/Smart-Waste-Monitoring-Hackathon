@@ -1,6 +1,6 @@
 /** @format */
 
-import React, { useState } from "react";
+import React, { useState, useRef } from "react";
 import {
   View,
   Text,
@@ -10,6 +10,8 @@ import {
   TouchableOpacity,
   Modal,
   FlatList,
+  Animated,
+  Dimensions,
 } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Ionicons, FontAwesome5 } from "@expo/vector-icons";
@@ -17,6 +19,11 @@ import colors from "@/utils/colors";
 import { rewards } from "../../utils/rewards";
 import { useRouter } from "expo-router";
 import { LinearGradient } from "expo-linear-gradient";
+
+// Get screen width for slider calculations
+const { width } = Dimensions.get('window');
+const REWARD_ITEM_WIDTH = width * 0.3; // Each reward takes 70% of screen width
+const REWARD_ITEM_SPACING = 12;
 
 // Sample user data
 const userData = {
@@ -55,10 +62,20 @@ export default function HomeScreen() {
   const router = useRouter();
   const [showNotifications, setShowNotifications] = useState(false);
 
+  // Add these for the slider
+  const scrollX = useRef(new Animated.Value(0)).current;
+  const [currentIndex, setCurrentIndex] = useState(0);
+
   // Current points and next reward threshold
   const currentPoints = 350;
   const nextRewardThreshold = 500;
   const progressPercentage = (currentPoints / nextRewardThreshold) * 100;
+
+  // Modify rewards array to unlock entry-level reward (you'll need to import or define the rewards array)
+  const enhancedRewards = [...rewards];
+  if (enhancedRewards.length > 0 && !enhancedRewards[0].unlocked) {
+    enhancedRewards[0] = { ...enhancedRewards[0], unlocked: true, isNew: true };
+  }
 
   const NotificationItem = ({ item }) => (
     <View style={styles.notificationItem}>
@@ -70,6 +87,49 @@ export default function HomeScreen() {
       </View>
     </View>
   );
+
+  // Add reward item renderer for horizontal list
+  const renderRewardItem = ({ item, index }) => (
+    <TouchableOpacity
+      style={[
+        styles.rewardItemHorizontal,
+        item.unlocked ? styles.unlockedReward : styles.lockedReward
+      ]}
+    >
+      <Text style={styles.rewardEmoji}>{item.emoji}</Text>
+      <Text style={styles.rewardLabel}>
+        {item.label}
+      </Text>
+      {!item.unlocked && (
+        <View style={styles.lockedBadge}>
+          <Ionicons name="lock-closed" size={14} color="#fff" />
+        </View>
+      )}
+      {item.isNew && item.unlocked && (
+        <View style={styles.newBadge}>
+          <Text style={styles.newBadgeText}>NEW</Text>
+        </View>
+      )}
+    </TouchableOpacity>
+  );
+
+  // Add pagination indicator renderer
+  const renderPaginationDots = () => {
+    const totalPages = Math.ceil(enhancedRewards.length / 1); // 2 visible items per page
+    return (
+      <View style={styles.paginationContainer}>
+        {Array(totalPages).fill(0).map((_, i) => (
+          <View
+            key={`dot-${i}`}
+            style={[
+              styles.paginationDot,
+              currentIndex === i ? styles.paginationDotActive : {}
+            ]}
+          />
+        ))}
+      </View>
+    );
+  };
 
   return (
     <View style={{ flex: 1, backgroundColor: colors.bg_tertiary }}>
@@ -140,24 +200,41 @@ export default function HomeScreen() {
           </LinearGradient>
         </View>
 
-        <Text style={styles.sectionTitle}>Rewards</Text>
-        <View style={styles.rewardsGrid}>
-          {rewards.map((reward, index) => (
-            <TouchableOpacity key={reward.id} style={[
-              styles.rewardItemGrid,
-              reward.unlocked ? styles.unlockedReward : styles.lockedReward
-            ]}>
-              <Text style={{ fontSize: 36 }}>{reward.emoji}</Text>
-              <Text style={styles.rewardLabel}>
-                {reward.label}
-              </Text>
-              {!reward.unlocked && (
-                <View style={styles.lockedBadge}>
-                  <Ionicons name="lock-closed" size={14} color="#fff" />
-                </View>
-              )}
+        {/* Rewards section with horizontal slider */}
+        <View style={styles.rewardsSection}>
+          <View style={styles.rewardsSectionHeader}>
+            <Text style={styles.sectionTitle}>Rewards</Text>
+            <TouchableOpacity style={styles.viewAllButton}>
+              <Text style={styles.viewAllText}>View All</Text>
+              <Ionicons name="chevron-forward" size={16} color={colors.primary} />
             </TouchableOpacity>
-          ))}
+          </View>
+
+          {/* Horizontal rewards list */}
+          <Animated.FlatList
+            data={enhancedRewards}
+            renderItem={renderRewardItem}
+            keyExtractor={(item) => item.id}
+            horizontal
+            showsHorizontalScrollIndicator={false}
+            contentContainerStyle={styles.rewardsListContainer}
+            snapToInterval={REWARD_ITEM_WIDTH + REWARD_ITEM_SPACING}
+            snapToAlignment="start"
+            decelerationRate="fast"
+            onScroll={Animated.event(
+              [{ nativeEvent: { contentOffset: { x: scrollX } } }],
+              { useNativeDriver: true }
+            )}
+            onMomentumScrollEnd={(e) => {
+              const newIndex = Math.round(
+                e.nativeEvent.contentOffset.x / (REWARD_ITEM_WIDTH + REWARD_ITEM_SPACING)
+              );
+              setCurrentIndex(newIndex);
+            }}
+          />
+
+          {/* Pagination dots */}
+          {renderPaginationDots()}
         </View>
 
         {/* Call to action section */}
@@ -441,7 +518,7 @@ const styles = StyleSheet.create({
   lockedBadge: {
     position: 'absolute',
     top: 8,
-    right: 8,
+    left: 8, // Changed from right: 8 to left: 8
     backgroundColor: 'rgba(107, 114, 128, 0.8)',
     width: 24,
     height: 24,
@@ -543,8 +620,8 @@ const styles = StyleSheet.create({
   // Add these to the StyleSheet
 
   ctaSection: {
-    paddingVertical: 16,
-    marginBottom: 16,
+    paddingVertical: 2,
+    marginBottom: 8,
     alignItems: 'center',
   },
   ctaIcon: {
@@ -575,5 +652,80 @@ const styles = StyleSheet.create({
     marginBottom: 0,
     lineHeight: 22,
     paddingHorizontal: 20,
+  },
+  // Rewards horizontal slider styles
+  rewardsSection: {
+    marginBottom: 24,
+  },
+  rewardsSectionHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 4,
+  },
+  viewAllButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  viewAllText: {
+    color: colors.primary,
+    fontWeight: '500',
+    fontSize: 14,
+    marginRight: 4,
+  },
+  rewardsListContainer: {
+    paddingLeft: 2,
+    paddingRight: 8,
+    paddingVertical: 4,
+  },
+  rewardItemHorizontal: {
+    width: REWARD_ITEM_WIDTH,
+    marginRight: REWARD_ITEM_SPACING,
+    padding: 10,
+    borderRadius: 20,
+    alignItems: "center",
+    justifyContent: "center",
+    shadowColor: "#000",
+    shadowOpacity: 0.08,
+    shadowRadius: 8,
+    elevation: 3,
+    minHeight: 160,
+    position: 'relative',
+  },
+  rewardEmoji: {
+    fontSize: 48,
+    marginBottom: 12,
+  },
+  newBadge: {
+    position: 'absolute',
+    top: 8,
+    left: 8,  // Changed from right: 12 to left: 8
+    backgroundColor: '#10b981',
+    paddingHorizontal: 6,
+    paddingVertical: 3,
+    borderRadius: 6,
+  },
+  newBadgeText: {
+    color: 'white',
+    fontSize: 10,
+    fontWeight: 'bold',
+  },
+  paginationContainer: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    marginTop: 10,
+  },
+  paginationDot: {
+    width: 8,
+    height: 8,
+    borderRadius: 4,
+    backgroundColor: '#e5e7eb',
+    marginHorizontal: 4,
+  },
+  paginationDotActive: {
+    width: 16,
+    height: 8,
+    borderRadius: 4,
+    backgroundColor: colors.primary,
   },
 });
