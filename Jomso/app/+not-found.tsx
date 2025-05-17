@@ -8,7 +8,7 @@ export default function NotFoundScreen() {
     <>
       <Stack.Screen options={{ title: "Oops!" }} />
       <View style={styles.container}>
-        <Text>This Screen doesnt exist!!!!</Text>
+        <Text>This Screen does not exist!</Text>
       </View>
     </>
   );

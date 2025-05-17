@@ -1,21 +1,15 @@
 /** @format */
 
-/** @format */
-
 import React, { useRef, useState, useEffect, useMemo } from "react";
-import { View, Image, ViewStyle, StyleSheet, Text } from "react-native";
+import { View, Image, StyleSheet } from "react-native";
 import MapView, { Marker } from "react-native-maps";
 import BottomSheet from "@gorhom/bottom-sheet";
-import { fetchBins } from "@/utils/binFetcher";
 import BinSheetContent from "@/components/BinSheetContent";
 import { mockBins } from "../../utils/mockBin";
 import * as Location from "expo-location";
 import haversine from "haversine-distance";
 import { Bin } from "@/utils/bin";
-import { ScrollView } from "react-native-gesture-handler";
-import colors from "@/utils/colors";
 import FloatingBinCard from "@/components/FloatingBinCard";
-import { router } from "expo-router";
 import ReportBinCamera from "@/components/ReportBinCamera";
 
 export default function ExploreScreen() {
@@ -27,7 +21,7 @@ export default function ExploreScreen() {
   } | null>(null);
 
   const sheetRef = useRef<BottomSheet>(null);
-  const snapPoints = useMemo(() => ["30%", "60%", "70%"], []);
+  // const snapPoints = useMemo(() => ["30%", "60%", "70%"], []);
   const mapRef = useRef<MapView>(null);
   const [showCamera, setShowCamera] = useState(false);
 
@@ -156,8 +150,8 @@ export default function ExploreScreen() {
                 bin.type === "green"
                   ? require("@/assets/images/bottle_green.webp")
                   : bin.type === "white"
-                  ? require("@/assets/images/bottle_red.webp")
-                  : require("@/assets/images/bottle_yellow.webp")
+                    ? require("@/assets/images/bottle_red.webp")
+                    : require("@/assets/images/bottle_yellow.webp")
               }
               style={{ width: 48, height: 48 }}
             />
@@ -185,32 +179,6 @@ export default function ExploreScreen() {
           }}
         />
       )}
-      {/* <View style={StyleSheet.absoluteFillObject} pointerEvents='box-none'>
-        {console.log("Selected bin:", selectedBin)}
-
-        <BottomSheet
-          ref={sheetRef}
-          snapPoints={snapPoints}
-          enablePanDownToClose
-          onChange={(index) => {
-            if (index === -1) setSelectedBin(null);
-          }}>
-          <View style={{ flex: 1 }}>
-            {selectedBin ? (
-              // <BinSheetContent
-              //   bin={selectedBin}
-              //   distance={getDistanceFromUser(selectedBin)}
-              //   isNearest={selectedBin.id === findClosestBin()?.id}
-              // />
-              <Text style={{ color: colors.accent }}>dehgdfd</Text>
-            ) : (
-              <Text style={{ padding: 20, textAlign: "center" }}>
-                No bin selected
-              </Text>
-            )}
-          </View>
-        </BottomSheet>
-      </View> */}
     </View>
   );
 }

@@ -17,9 +17,6 @@ export default function WasteManagementDashboard() {
     const [selectedGlassType, setSelectedGlassType] = useState("white");
     const screenWidth = Dimensions.get("window").width - 80;
 
-    
-
-
     // Historical fill level data for different glass container types
     const fillLevelData = {
         white: [40, 52, 65, 70, 45, 60, 75, 80, 65, 55, 73, 85],
@@ -213,7 +210,7 @@ export default function WasteManagementDashboard() {
                                     strokeWidth: "2",
                                     stroke: "#fff"
                                 },
-                                 propsForLabels: {
+                                propsForLabels: {
                                     fontSize: 8,
                                 },
                             }}
@@ -476,10 +473,10 @@ const styles = StyleSheet.create({
     },
     // Chart styles
     chartContainer: {
-        width:"95%",
-        flex:1,
-        justifyContent:"center",
-        marginRight:25,
+        width: "95%",
+        flex: 1,
+        justifyContent: "center",
+        marginRight: 25,
         marginBottom: 20,
     },
     chartTitleRow: {
