@@ -5,18 +5,25 @@ import React from "react";
 import { View, Text, StyleSheet, TouchableOpacity } from "react-native";
 import { Bin } from "@/utils/bin";
 import colors from "@/utils/colors";
+import { Feather } from "@expo/vector-icons";
 
 export default function FloatingBinCard({
   bin,
   distance,
   onReport,
+  onClose,
 }: {
   bin: Bin;
   distance: string;
   onReport: () => void;
+  onClose: () => void;
 }) {
   return (
     <View style={styles.card}>
+      {/* Close Button */}
+      <TouchableOpacity style={styles.closeButton} onPress={onClose}>
+        <Feather name='x' size={20} color='#444' />
+      </TouchableOpacity>
       <Text style={styles.title}>{bin.address}</Text>
 
       <Text style={styles.label}>Fill level</Text>
@@ -67,6 +74,13 @@ const styles = StyleSheet.create({
     fontWeight: "700",
     marginBottom: 12,
     color: "#111827",
+  },
+  closeButton: {
+    position: "absolute",
+    top: 14,
+    right: 14,
+    padding: 6,
+    zIndex: 10,
   },
   label: {
     fontSize: 14,
