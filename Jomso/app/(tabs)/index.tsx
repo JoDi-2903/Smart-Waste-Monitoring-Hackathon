@@ -28,7 +28,7 @@ const REWARD_ITEM_SPACING = 12;
 const userData = {
   name: "Alex Johnson",
   role: "Administrator",
-  avatar: require("@/assets/images/profile_picture_man.jpg"),
+  avatar: require("@/assets/images/profile_picture_man.png"),
 };
 
 // Sample notifications data
@@ -78,7 +78,7 @@ export default function HomeScreen() {
 
   const NotificationItem = ({ item }) => (
     <View style={styles.notificationItem}>
-      <Image source={{ uri: item.image }} style={styles.notificationImage} />
+      <Image source={item.image} style={styles.notificationImage} />
       <View style={styles.notificationContent}>
         <Text style={styles.notificationUsername}>{item.username}</Text>
         <Text style={styles.notificationMessage}>{item.message}</Text>
@@ -157,7 +157,7 @@ export default function HomeScreen() {
             <Text style={styles.userRole}>{userData.role}</Text>
           </View>
           <View style={styles.avatarContainer}>
-            <Image source={{ uri: userData.avatar }} style={styles.avatar} />
+            <Image source={userData.avatar} style={styles.avatar} />
           </View>
         </TouchableOpacity>
       </View>
@@ -237,7 +237,7 @@ export default function HomeScreen() {
           onMomentumScrollEnd={(e) => {
             const newIndex = Math.round(
               e.nativeEvent.contentOffset.x /
-              (REWARD_ITEM_WIDTH + REWARD_ITEM_SPACING)
+                (REWARD_ITEM_WIDTH + REWARD_ITEM_SPACING)
             );
             setCurrentIndex(newIndex);
           }}
