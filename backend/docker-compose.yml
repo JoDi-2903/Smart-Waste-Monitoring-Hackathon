@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  api:
+    build:
+      context: ./jomso-backend
+    ports:
+      - "5000:5000"
+    environment:
+      CSV_PATH: /app/data/dataset.csv
+    volumes:
+      # mount local data folder (optional) for live edits
+      - ./jomso-backend/data:/app/data
