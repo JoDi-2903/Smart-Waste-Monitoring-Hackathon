@@ -7,10 +7,18 @@ import ParallaxScrollView from '@/components/ParallaxScrollView';
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 
+// Base Docker API URL - change this to your machine's IP when testing on physical devices
+const API_BASE_URL = 'http://10.0.2.2:5000'; //Only works on Android simulator for now; 'http://localhost:5000'; // Use actual IP (e.g., '192.168.1.5') for physical devices
+
 export default function HomeScreen() {
   const [element0, setElement0] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+
+  // state for demo endpoint data
+  const [demoData, setDemoData] = useState(null);
+  const [demoLoading, setDemoLoading] = useState(true);
+  const [demoError, setDemoError] = useState(null);
 
   useEffect(() => {
     fetch('https://api.restful-api.dev/objects')
@@ -29,6 +37,27 @@ export default function HomeScreen() {
       })
       .catch((err) => setError(err.message))
       .finally(() => setLoading(false));
+  }, []);
+
+  // useEffect for fetching data from the docker endpoint
+  useEffect(() => {
+    setDemoLoading(true);
+    fetch(`${API_BASE_URL}/demo`)
+      .then((res) => {
+        if (!res.ok) {
+          throw new Error(`HTTP ${res.status}`);
+        }
+        return res.json();
+      })
+      .then((data) => {
+        if (data.rows && data.rows.length > 0) {
+          setDemoData(data.rows[0]); // Get the first row
+        } else {
+          setDemoError('No rows received from demo endpoint');
+        }
+      })
+      .catch((err) => setDemoError(err.message))
+      .finally(() => setDemoLoading(false));
   }, []);
 
   return (
@@ -75,7 +104,7 @@ export default function HomeScreen() {
           <ThemedText type="defaultSemiBold">app-example</ThemedText>.
         </ThemedText>
       </ThemedView>
-      {/* REST-Test-View */}
+      {/* Online Hosted REST Test View */}
       <ThemedView style={styles.testContainer}>
         <ThemedText type="subtitle">API Test: Element 0</ThemedText>
         {loading && <ThemedText>Loading...</ThemedText>}
@@ -83,6 +112,18 @@ export default function HomeScreen() {
         {element0 && (
           <ThemedText style={styles.jsonText}>
             {JSON.stringify(element0, null, 2)}
+          </ThemedText>
+        )}
+      </ThemedView>
+
+      {/* Docker API Test View */}
+      <ThemedView style={styles.testContainer}>
+        <ThemedText type="subtitle">Demo API Test: First Row</ThemedText>
+        {demoLoading && <ThemedText>Loading...</ThemedText>}
+        {demoError && <ThemedText style={{ color: 'red' }}>{demoError}</ThemedText>}
+        {demoData && (
+          <ThemedText style={styles.jsonText}>
+            {JSON.stringify(demoData, null, 2)}
           </ThemedText>
         )}
       </ThemedView>
