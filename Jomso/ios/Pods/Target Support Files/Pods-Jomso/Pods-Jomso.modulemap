@@ -1,0 +1,6 @@
+module Pods_Jomso {
+  umbrella header "Pods-Jomso-umbrella.h"
+
+  export *
+  module * { export * }
+}
