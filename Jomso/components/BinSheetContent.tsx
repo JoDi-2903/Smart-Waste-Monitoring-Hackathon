@@ -4,6 +4,7 @@ import React from "react";
 import { View, Text, StyleSheet, TouchableOpacity } from "react-native";
 import * as ImagePicker from "expo-image-picker";
 import { Bin } from "@/utils/bin";
+import { ScrollView } from "react-native-gesture-handler";
 
 export default function BinSheetContent({
   bin,
@@ -27,43 +28,45 @@ export default function BinSheetContent({
   };
 
   return (
-    <View style={styles.container}>
-      <View style={styles.titleRow}>
-        <Text style={styles.title}>{bin.address}</Text>
-        {isNearest && <Text style={styles.nearestTag}>• Nearest 🧭</Text>}
-      </View>
-
-      <Text style={styles.distanceText}>Distance: {distance}</Text>
-
-      <View style={styles.row}>
-        <Text style={styles.label}>Fill level</Text>
-        <Text style={styles.value}>{bin.fill}%</Text>
-      </View>
-
-      <View style={styles.barBackground}>
-        <View style={[styles.barFill, { width: `${bin.fill}%` }]} />
-      </View>
-
-      <View style={styles.rowItem}>
-        <Text style={styles.label}>Type</Text>
-        <View style={styles.row}>
-          <Text style={styles.icon}>🍾</Text>
-          <Text style={styles.value}>{bin.type}</Text>
+    <ScrollView>
+      <View style={styles.container}>
+        <View style={styles.titleRow}>
+          <Text style={styles.title}>{bin.address}</Text>
+          {isNearest && <Text style={styles.nearestTag}>• Nearest 🧭</Text>}
         </View>
-      </View>
 
-      <View style={styles.rowItem}>
-        <Text style={styles.label}>Size</Text>
+        <Text style={styles.distanceText}>Distance: {distance}</Text>
+
         <View style={styles.row}>
-          <Text style={styles.icon}>📦</Text>
-          <Text style={styles.value}>{bin.size}</Text>
+          <Text style={styles.label}>Fill level</Text>
+          <Text style={styles.value}>{bin.fill}%</Text>
         </View>
-      </View>
 
-      <TouchableOpacity onPress={handleReport} style={styles.reportButton}>
-        <Text style={styles.reportText}>Report</Text>
-      </TouchableOpacity>
-    </View>
+        <View style={styles.barBackground}>
+          <View style={[styles.barFill, { width: `${bin.fill}%` }]} />
+        </View>
+
+        <View style={styles.rowItem}>
+          <Text style={styles.label}>Type</Text>
+          <View style={styles.row}>
+            <Text style={styles.icon}>🍾</Text>
+            <Text style={styles.value}>{bin.type}</Text>
+          </View>
+        </View>
+
+        <View style={styles.rowItem}>
+          <Text style={styles.label}>Size</Text>
+          <View style={styles.row}>
+            <Text style={styles.icon}>📦</Text>
+            <Text style={styles.value}>{bin.size}</Text>
+          </View>
+        </View>
+
+        <TouchableOpacity onPress={handleReport} style={styles.reportButton}>
+          <Text style={styles.reportText}>Report</Text>
+        </TouchableOpacity>
+      </View>
+    </ScrollView>
   );
 }
 

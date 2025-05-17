@@ -94,7 +94,7 @@ export default function RouteOptimizationScreen() {
   }, []);
 
   // Yellow progress bar fill color
-  const fillColor = "#FFFF00";
+  const fillColor = colors.primary;
 
   return (
     <ScrollView style={[styles.container, { paddingTop: insets.top }]}>
@@ -212,7 +212,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     paddingHorizontal: 16,
-    backgroundColor: "#f9f9f9",
+    backgroundColor: colors.bg_dark,
   },
   header: {
     flexDirection: "row",
@@ -223,7 +223,7 @@ const styles = StyleSheet.create({
   headerTitle: {
     fontSize: 24,
     fontWeight: "700",
-    color: colors.bg_dark,
+    color: colors.primary,
   },
   refreshButton: {
     width: 40,
@@ -297,7 +297,7 @@ const styles = StyleSheet.create({
   sectionTitle: {
     fontSize: 18,
     fontWeight: "600",
-    color: colors.bg_dark,
+    color: colors.primary,
     marginBottom: 12,
   },
   binsContainer: {

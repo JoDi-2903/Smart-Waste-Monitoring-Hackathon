@@ -87,7 +87,7 @@ export default function TabLayout() {
             tabBarLabel: ({ focused }) => (
               <Text
                 style={{ color: focused ? colors.primary : colors.highlight }}>
-                distributor
+                Distributor
               </Text>
             ),
             tabBarIcon: ({ color, size, focused }) => (
@@ -104,7 +104,7 @@ export default function TabLayout() {
             tabBarLabel: ({ focused }) => (
               <Text
                 style={{ color: focused ? colors.primary : colors.highlight }}>
-                Distributor
+                Menu
               </Text>
             ),
             tabBarIcon: ({ color, size, focused }) => (
