@@ -1,7 +1,7 @@
 /** @format */
 
 export default {
-  primary: "#f5f507",
+  primary: "#ffde01",
   secondary: "#E1EDF2",
   active: "#F9D34E",
   accent: "#27D8A1",

@@ -8,6 +8,7 @@ export const mockBins = [
     fill: 92,
     type: "glass",
     address: "Near Karlstraße 12, Karlsruhe",
+    size: "2.5 m³",
   },
   {
     id: "2",
@@ -16,6 +17,7 @@ export const mockBins = [
     fill: 60,
     type: "clothes",
     address: "Close to Europaplatz",
+    size: "2.5 m³",
   },
   {
     id: "3",
@@ -24,5 +26,6 @@ export const mockBins = [
     fill: 75,
     type: "paper",
     address: "Sophienstraße drop point",
+    size: "2.5 m³",
   },
 ];

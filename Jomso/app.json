@@ -50,5 +50,10 @@
     "updates": {
       "url": "https://u.expo.dev/1fb3cbce-828b-407e-8d3c-fbd2ba2e998b"
     }
+  },
+  "ios": {
+    "infoPlist": {
+      "NSCameraUsageDescription": "This app needs camera access to report bin issues."
+    }
   }
 }

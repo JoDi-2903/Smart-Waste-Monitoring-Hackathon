@@ -99,12 +99,12 @@ export default function TabLayout() {
           }}
         />
         <Tabs.Screen
-          name='menuScreen'
+          name='menu'
           options={{
             tabBarLabel: ({ focused }) => (
               <Text
                 style={{ color: focused ? colors.primary : colors.highlight }}>
-                Menü
+                Distributor
               </Text>
             ),
             tabBarIcon: ({ color, size, focused }) => (
